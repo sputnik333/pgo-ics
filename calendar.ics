@@ -1,0 +1,1729 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pgo-ics-builder//vivific pgocalendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pokémon GO Calendar
+X-PUBLISHED-TTL:PT6H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+BEGIN:VEVENT
+UID:suita-city-stamp-rally-2025-05-09@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20250509
+DTEND;VALUE=DATE:20250510
+SUMMARY:Stamp Rally Suita (Japan)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: stamp-rally\nIngen slutdato angivet (vist som én dag).\n
+ \nOfficial Pokémon GO source states that the Suita City Stamp Rally has n
+ o end-period restriction.\n\nKilder:\nhttps://pokemongo.com/news/suita_ral
+ ly?hl=ja
+LOCATION:Suita\, Osaka\, Japan
+CATEGORIES:stamp-rally
+URL:https://pokemongo.com/news/suita_rally?hl=ja
+END:VEVENT
+BEGIN:VEVENT
+UID:poke-lid-stamp-rally-kyushu-okinawa-2025-11-07@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251108
+SUMMARY:Stamp Rally Poké Lid (Japan)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: stamp-rally\nIngen slutdato angivet (vist som én dag).\n
+ \nKan fås:\n• Pikachu – stamp-rally-reward\n\nPoké Lid Stamp Rally l
+ aunched first in Kyushu & Okinawa on November 7\, 2025 and later expanded 
+ nationwide. The official nationwide update confirms no fixed end\; newly i
+ nstalled Poké Lids are added to the stamp sheet. In-game rally id: POKELI
+ D_COLLECTION.\n\nKilder:\nhttps://pokemongo.com/news/pokelidsr_kyushu_okin
+ awa\nhttps://pokemongo.com/ja/news/pokelid_full
+LOCATION:Japan
+CATEGORIES:stamp-rally
+URL:https://pokemongo.com/news/pokelidsr_kyushu_okinawa
+END:VEVENT
+BEGIN:VEVENT
+UID:nagasaki-go-stamp-rally-2025-11-10@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251111
+SUMMARY:Stamp Rally Nagasaki (Japan)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: stamp-rally\nIngen slutdato angivet (vist som én dag).\n
+ \nKan fås:\n• Ampharos ✨ – stamp-rally-reward\n\nOngoing eight-stop
+  city stamp rally. Completing all eight stamps awards an encounter with Am
+ pharos featuring a Nagasaki Location Background. The official article give
+ s no end date.\n\nKilder:\nhttps://pokemongo.com/news/stamp-rally-nagasaki
+LOCATION:Nagasaki\, Japan
+CATEGORIES:stamp-rally
+URL:https://pokemongo.com/news/stamp-rally-nagasaki
+END:VEVENT
+BEGIN:VEVENT
+UID:ppk-launch-2026-02-05@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+SUMMARY:PokéPark KANTO (Japan)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: event / local-raid\nIngen slutdato angivet (vist som én 
+ dag).\nKræver billet\n\nKan fås:\n• Unown (P) ✨ – wild\n• Unown 
+ (K) ✨ – wild\n• Zapdos ✨ – raid\n• Moltres ✨ – raid\n• A
+ rticuno ✨ – raid\n\nLocal-only raids at PokéPark KANTO rotate among M
+ oltres\, Articuno\, and Zapdos on a four-month schedule. Raid catches can 
+ have the PokéPark KANTO Location Background. Ongoing daily PokéPark KANT
+ O–exclusive Pokémon GO content beginning February 5\, 2026\; admission 
+ requires a ticket.\n\nKilder:\nhttps://pokemongo.com/en/news/ppk_launch
+LOCATION:PokéPark KANTO\, Yomiuriland\, Japan
+CATEGORIES:event
+URL:https://pokemongo.com/en/news/ppk_launch
+END:VEVENT
+BEGIN:VEVENT
+UID:pgo-pokemon-fossil-musuem-chicago-2026-2026-05-22@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20270412
+SUMMARY:Pokémon Fossil Museum Chicago (U.S.A.)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / local-raid\n\nKan fås:\n• Pikachu (Exc
+ avator) ✨ – field-research\, raid\n• Aerodactyl (Mega) ✨ – mega-
+ raid\n\nLocal-only raids for Excavator Pikachu and Mega Aerodactyl at the 
+ Field Museum. Both can be shiny. Pokémon GO gameplay follows the Pokémon
+  Fossil Museum exhibition window from May 22\, 2026 through April 11\, 202
+ 7.\n\nKilder:\nhttps://pokemongo.com/en/news/pgo-pokemon-fossil-musuem-chi
+ cago-2026
+LOCATION:Chicago\, Illinois\, USA
+CATEGORIES:collaboration
+URL:https://pokemongo.com/en/news/pgo-pokemon-fossil-musuem-chicago-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-koto-stamp-rally-2026-2026-05-25@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Stamp Rally Koto (Japan)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: stamp-rally\nIngen slutdato angivet (vist som én dag).\n
+ \nPersistent Tokyo ward GO Stamp Rally launched May 25\, 2026 alongside GO
+  Fest Tokyo and explicitly continued after GO Fest ended. Current in-game 
+ data still lists it as active with no end field. Required stamps: 4.\n\nKi
+ lder:\nhttps://prtimes.jp/main/html/rd/p/000000004.000177618.html\nhttps:/
+ /prtimes.jp/main/html/rd/p/000000003.000177618.html\nhttps://www.city.koto
+ .lg.jp/103000/pokemongo/fest2026-event.html
+LOCATION:Koto City\, Tokyo\, Japan
+CATEGORIES:stamp-rally
+URL:https://prtimes.jp/main/html/rd/p/000000004.000177618.html
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-minato-stamp-rally-2026-2026-05-25@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Stamp Rally Minato (Japan)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: stamp-rally\nIngen slutdato angivet (vist som én dag).\n
+ \nPersistent Tokyo ward GO Stamp Rally launched May 25\, 2026 alongside GO
+  Fest Tokyo and explicitly continued after GO Fest ended. Current in-game 
+ data still lists it as active with no end field. Required stamps: 5. In-ga
+ me rally id: STAMP_RALLY_TOKYO_MINATO_2026.\n\nKilder:\nhttps://prtimes.jp
+ /main/html/rd/p/000000004.000177618.html\nhttps://prtimes.jp/main/html/rd/
+ p/000000003.000177618.html\nhttps://www.city.minato.tokyo.jp/kankouseisaku
+ /event/pokemongo.html
+LOCATION:Minato City\, Tokyo\, Japan
+CATEGORIES:stamp-rally
+URL:https://prtimes.jp/main/html/rd/p/000000004.000177618.html
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-shinagawa-stamp-rally-2026-2026-05-25@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Stamp Rally Shinagawa (Japan)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: stamp-rally\nIngen slutdato angivet (vist som én dag).\n
+ \nPersistent Tokyo ward GO Stamp Rally launched May 25\, 2026 alongside GO
+  Fest Tokyo and explicitly continued after GO Fest ended. Current in-game 
+ data still lists it as active with no end field. Required stamps: 4. In-ga
+ me rally id: STAMP_RALLY_TOKYO_SHINAGAWA_2026.\n\nKilder:\nhttps://prtimes
+ .jp/main/html/rd/p/000000004.000177618.html\nhttps://prtimes.jp/main/html/
+ rd/p/000000003.000177618.html\nhttps://shinagawa-kanko.or.jp/event/pokemon
+ go2026/
+LOCATION:Shinagawa City\, Tokyo\, Japan
+CATEGORIES:stamp-rally
+URL:https://prtimes.jp/main/html/rd/p/000000004.000177618.html
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-center-stamp-rally-2026-2026-07-01@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20270901
+SUMMARY:Stamp Rally Pokémon Center (Japan)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: stamp-rally\n\nKan fås:\n• Pikachu – stamp-rally-rew
+ ard\n\n18-location Pokémon Center / Pokémon GO Lab. stamp rally. In-game
+  rally id: STAMP_RALLY_JAPAN_POKRMONCENTER_2026.\n\nKilder:\nhttps://pokem
+ ongo.com/news/assistant_pikachu\nhttps://shop.pokemon.co.jp/ja/shop/common
+ /events/202606/000336.html
+LOCATION:Pokémon Center locations across Japan
+CATEGORIES:stamp-rally
+URL:https://pokemongo.com/news/assistant_pikachu
+END:VEVENT
+BEGIN:VEVENT
+UID:nationaltrust-2026-2026-07-18@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20270101
+SUMMARY:National Trust (U.K.)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / local-raid\n\nKan fås:\n• Hoppip – r
+ aid\n• Sewaddle – raid\n• Pineco – raid\n• Seedot – raid\n• 
+ Treecko – timed-research\n• Grovyle – timed-research\n• Sceptile 
+ – timed-research\n\nLocal-only raids vary by National Trust region: Hopp
+ ip in London & South East\, Sewaddle in Midlands & East of England\, Pinec
+ o in North of England & Northern Ireland\, and Seedot in South West Englan
+ d & Wales. Raid catches can have the visited National Trust site's Locatio
+ n Background. Activities run through December 31\, 2026.\n\nKilder:\nhttps
+ ://pokemongo.com/en/news/nationaltrust-2026
+LOCATION:England\, Wales\, Northern Ireland
+CATEGORIES:collaboration
+URL:https://pokemongo.com/en/news/nationaltrust-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-ana-red-2026-07-28@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20270901
+SUMMARY:ANA Red Pokémon Jet (Japan)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / local-raid\n\nKan fås:\n• Charmander 
+ ✨ – raid\n\nLocal-only raids for Charmander at Phase 1 participating A
+ NA Red Pokémon Jet airports from July 28\, 2026 through August 31\, 2027.
+  Charmander can be Shiny\, and raid catches have the Red Pokémon Jet Loca
+ tion Background. Each Trainer can participate in one raid per day at each 
+ Gym. Phase 1 airports: New Chitose\, Hakodate\, Akita\, Sendai\, Haneda (T
+ erminals 2 and 3)\, and Narita (Terminal 1). Airport visitors can also cla
+ im the Phase 1 Timed Research once\; it expires three days after receipt.\
+ n\nKilder:\nhttps://pokemongo.com/ja/news/2026_ana_red\nhttps://pokemongo.
+ com/en/news/2026_ana_red
+LOCATION:New Chitose Airport\, Hakodate Airport\, Akita Airport\, Sendai Ai
+ rport\, Haneda Airport (Terminal 2\, Terminal 3)\, Narita Airport (Termina
+ l 1)
+CATEGORIES:collaboration
+URL:https://pokemongo.com/ja/news/2026_ana_red
+END:VEVENT
+BEGIN:VEVENT
+UID:pokexciting-kuala-lumpur-stamp-rally-2026-2026-09-12@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20261014
+SUMMARY:PokéXciting! Kuala Lumpur (Malaysia)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / stamp-rally\n\nKan fås:\n• Pikachu (Tu
+ rquoise) ✨ – stamp-rally-reward\n• Pikachu (Turquoise) ✨ – wild\
+ n\nKilder:\nhttps://pokemongo.com/news/event-kuala-lumpur-30th-anniversary
+ -2026
+LOCATION:KLCC Park
+CATEGORIES:collaboration
+URL:https://pokemongo.com/news/event-kuala-lumpur-30th-anniversary-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokexciting-cross-region-go-stamp-rally-2026-2026-09-12@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20290912
+SUMMARY:Stamp Rally PokéXciting! Cross-Region (Asia-Pacific)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: stamp-rally\n\nKan fås:\n• Pikachu (Turquoise) ✨ –
+  stamp-rally-reward\n• Pikachu (Pink) ✨ – stamp-rally-reward\n• Pi
+ kachu (Blue) ✨ – stamp-rally-reward\n• Pikachu (Red) ✨ – stamp-r
+ ally-reward\n\nCross-region stamp series. Kuala Lumpur\, Taipei\, Singapor
+ e\, and Manila stamp locations are scheduled through September 11\, 2029\;
+  Bangkok details are to be announced.\n\nKilder:\nhttps://pokemongo.com/en
+ /news/event-apac-stamp-rally-2026
+LOCATION:Kuala Lumpur\, Taipei\, Singapore\, Manila\, Bangkok
+CATEGORIES:stamp-rally
+URL:https://pokemongo.com/en/news/event-apac-stamp-rally-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:partner-research-familymart-autumn-2026-2026-09-15@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20261006
+SUMMARY:Partner Research: FamilyMart (Japan)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: timed-research / paid-code\n\nBonusser:\n• 2× items fr
+ om spinning PokéStops and Gyms\n• Chance to receive special Field Resea
+ rch from participating partner PokéStops\n\nNew participation tickets can
+  be earned through FamilyMart's FamiPay campaign from September 15 through
+  October 5\, 2026. The calendar ends at the final acquisition date for a n
+ ew player\; promotion-code registration remains open through November 30 a
+ nd previously unlocked Timed Research can be completed through December 31
+ .\n\nKilder:\nhttps://pokemongo.com/news/202609partnerresearch-jp
+LOCATION:Japan
+CATEGORIES:timed-research
+URL:https://pokemongo.com/news/202609partnerresearch-jp
+END:VEVENT
+BEGIN:VEVENT
+UID:pikachu-autumn-picnic-korea-2026-2026-09-18@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20261012
+SUMMARY:Pikachu's Autumn Picnic (Korea)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: event / local-raid\n\nKan fås:\n• Pikachu (Female\, Or
+ ange Hanbok) ✨ – field-research\, raid\, timed-research\n\nBonusser:\n
+ • lure-duration\n• Increased Shiny chance for Orange Hanbok Pikachu fr
+ om event raids and research\n\nKilder:\nhttps://pokemongo.com/en/news/pika
+ chu-autumn-picnic-korea-2026
+LOCATION:Jongno District\, Seoul\, Jung District\, Seoul\, HiKR Station in 
+ Incheon International Airport
+CATEGORIES:event
+URL:https://pokemongo.com/en/news/pikachu-autumn-picnic-korea-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-ana-green-2026-09-18@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20270901
+SUMMARY:ANA Green Pokémon Jet (Japan)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / local-raid\n\nKan fås:\n• Bulbasaur 
+ ✨ – raid\, timed-research\n\nKilder:\nhttps://pokemongo.com/en/news/20
+ 26_ana_green
+LOCATION:Kochi Airport\, Matsuyama Airport\, Takamatsu Airport\, Tokushima 
+ Airport\, Fukuoka Airport\, Saga Airport\, Miyazaki Airport\, Kumamoto Air
+ port\, Kagoshima Airport\, Nagasaki Airport\, Oita Airport\, Ishigaki Airp
+ ort\, Miyako Airport\, Naha Airport
+CATEGORIES:collaboration
+URL:https://pokemongo.com/en/news/2026_ana_green
+END:VEVENT
+BEGIN:VEVENT
+UID:choose-your-path-twilight-trails-2026-2026-09-23@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260929
+SUMMARY:Choose Your Path: Twilight Trails
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: event / timed-research\n\nKilder:\nhttps://pokemongo.com/
+ ja/news/choose-your-path-twilight-trails-2026
+CATEGORIES:event
+URL:https://pokemongo.com/ja/news/choose-your-path-twilight-trails-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-x-adidas-timed-research-2026-2026-09-25@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20270116
+SUMMARY:Adidas Avatar Items (Select Countries)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Adidas C
+ lothing Options – timed-research\n\nVisit a participating adidas store o
+ r retail store and open Pokémon GO to obtain event-themed Timed Research.
+  Rewards include the adidas Pokémon Jacket and Cap avatar items\, XP\, St
+ ardust\, a Lucario encounter\, Lucario Mega Energy\, and more. Research ca
+ n be obtained through January 15\, 2027 at 8:00 p.m. local time\; the Febr
+ uary 13\, 2027 completion/claim deadline is a grace period for already-obt
+ ained research and does not extend this calendar bar.\n\nKilder:\nhttps://
+ pokemongo.com/en/news/pokemon-x-adidas-2026
+LOCATION:Participating adidas stores and retail stores\, see article's link
+ ed map
+CATEGORIES:collaboration
+URL:https://pokemongo.com/en/news/pokemon-x-adidas-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemongo-iitdelhi-2026-2026-09-28@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261002
+SUMMARY:IIT-Delhi Rendezvous 2026 (India)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration\n\nKan fås:\n• Venusaur – evolution\n
+ • Charizard – evolution\n• Blastoise – evolution\n\nKanto starter 
+ evolutions during the event can learn Frenzy Plant\, Blast Burn\, and Hydr
+ o Cannon. See article for more details.\n\nKilder:\nhttps://pokemongo.com/
+ news/pokemongo-iitdelhi-2026
+LOCATION:IIT-Delhi Campus
+CATEGORIES:collaboration
+URL:https://pokemongo.com/news/pokemongo-iitdelhi-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:patterns-of-the-wild-2026-1-2026-09-28@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261011
+SUMMARY:Patterns of the Wild Timed Research (Indonesia)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: timed-research\n\nKan fås:\n• Pikachu (Batik Shirt) 
+ ✨ – timed-research\n\nThis is separate from the October 2nd event that
+  includes wild encounters for costumed Pikachu.\n\nKilder:\nhttps://pokemo
+ ngo.com/en/news/patterns-of-the-wild-2026
+LOCATION:Indonesia
+CATEGORIES:timed-research
+URL:https://pokemongo.com/en/news/patterns-of-the-wild-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:harvest-festival-2026-2026-09-29@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261006
+SUMMARY:Harvest Festival: Applin Picking
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: event\n\nKan fås:\n• Applin ✨ – wild\n• Cottonee
+  (Flower Crown) ✨ – lure\n\nBonusser:\n• Increased chance to encount
+ er Shiny Smoliv\n• Applin has an increased chance of holding Tart\, Swee
+ t\, or Syrupy Apples when caught\n• lure-duration\n• Increased Stardus
+ t from defeating Team GO Rocket Grunts and Leaders\n\nMossy Lures will onl
+ y attract apples and event-themed Pokemon.\n\nKilder:\nhttps://pokemongo.c
+ om/en/news/harvest-festival-2026
+CATEGORIES:event
+URL:https://pokemongo.com/en/news/harvest-festival-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:weekly-branching-tr-korea-2026-3-2026-09-29@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261006
+SUMMARY:Weekly Relay – Part III (Korea)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: timed-research\n\nOnly given to select players at random.
+ \n\nKilder:\nhttps://pokemongo.com/en/news/weekly-branching-tr-korea-2026
+LOCATION:South Korea
+CATEGORIES:timed-research
+URL:https://pokemongo.com/en/news/weekly-branching-tr-korea-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:comic-con-malaga-2026-2026-10-01@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261005
+SUMMARY:Comic-Con Málaga (Spain)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: event / timed-research\nKræver billet\n\nKan fås:\n• 
+ Pikachu ✨ – field-research\, timed-research\n\nBonusser:\n• Addition
+ al PokéStops and Gyms in the event area\n• Surprise Smeargle encounters
+  from GO Snapshot\n\nKilder:\nhttps://pokemongo.com/en/news/comic-con-mala
+ ga-2026
+LOCATION:Málaga\, Spain
+CATEGORIES:event
+URL:https://pokemongo.com/en/news/comic-con-malaga-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-30th-mall-exploration-ombak-klcc-2026-2026-10-01@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20270101
+SUMMARY:30th Anniversary Mall Exploration – Ombak KLCC (Malaysia)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Pikachu 
+ (Party Hat) ✨ – timed-research\n\nBonusser:\n• lure-duration\n\nOnsi
+ te Timed Research can be obtained once total across participating Pokémon
+  30th Anniversary Mall Exploration locations and expires 10 days after acq
+ uisition\; that later completion period does not extend this calendar bar.
+  Lure Modules used in designated areas last four hours during this venue w
+ indow.\n\nKilder:\nhttps://pokemongo.com/en/news/apac-mall-exploration-202
+ 6
+LOCATION:Ombak KLCC\, Malaysia
+CATEGORIES:collaboration
+URL:https://pokemongo.com/en/news/apac-mall-exploration-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-30th-mall-exploration-sm-mall-of-asia-2026-2026-10-01@pgocalend
+ ar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20270201
+SUMMARY:30th Anniversary Mall Exploration – SM Mall of Asia (Philippines)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Pikachu 
+ (Party Hat) ✨ – timed-research\n\nBonusser:\n• lure-duration\n\nOnsi
+ te Timed Research can be obtained once total across participating Pokémon
+  30th Anniversary Mall Exploration locations and expires 10 days after acq
+ uisition\; that later completion period does not extend this calendar bar.
+  Lure Modules used in designated areas last four hours during this venue w
+ indow.\n\nKilder:\nhttps://pokemongo.com/en/news/apac-mall-exploration-202
+ 6
+LOCATION:SM Mall of Asia\, Philippines
+CATEGORIES:collaboration
+URL:https://pokemongo.com/en/news/apac-mall-exploration-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:patterns-of-the-wild-2026-2-2026-10-02@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Patterns of the Wild (Indonesia)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: event\n\nKan fås:\n• Pikachu (Batik Shirt) ✨ – wil
+ d\n\nBonusser:\n• incense-duration\n• Higher chance to encounter Batik
+  Shirt Pikachu and other event-themed Pokémon from Incense\n• Increased
+  chance to encounter Shiny event Pokémon in the wild\n\nThis is separate 
+ from the September 28th Timed Research.\n\nKilder:\nhttps://pokemongo.com/
+ en/news/patterns-of-the-wild-2026
+LOCATION:Indonesia
+CATEGORIES:event
+URL:https://pokemongo.com/en/news/patterns-of-the-wild-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:harvest-festival-tgr-2026-2026-10-02@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261006
+SUMMARY:Harvest Festival: Taken Over
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: event\n\nKan fås:\n• Shroodle ✨ – egg\n• Zekrom 
+ (Shadow) ✨ – giovanni\n• Wimpod (Shadow) ✨ – team-go-rocket\n•
+  Fomantis (Shadow) ✨ – team-go-rocket\n• Sandygast (Shadow) ✨ – 
+ team-go-rocket\n\nBonusser:\n• Increased chance to encounter Shiny Slugm
+ a\n• Team GO Rocket appears more frequently at PokéStops and in balloon
+ s\n• Charged TMs can be used to make Shadow Pokémon forget Frustration\
+ n• Pokémon from one-star and three-star Shadow Raids have a wider IV va
+ riance\n\nKilder:\nhttps://pokemongo.com/en/news/harvest-festival-tgr-2026
+CATEGORIES:event
+URL:https://pokemongo.com/en/news/harvest-festival-tgr-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:gigantamax-cinderace-max-battle-day-2026-2026-10-03@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Gigantamax Cinderace Max Battle Day
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: max-battle-day\n\nKan fås:\n• Cinderace (Gigantamax) 
+ ✨ – max-battle\n\nBonusser:\n• Max Particle collection limit increas
+ ed to 1\,600\n• All Power Spots host Gigantamax Battles\n• Power Spots
+  refresh more frequently\n• Additional Power Spots are active\n• 8× p
+ ower-spot max-particles\n• Up to 3 Special Trades for the day\n• Daily
+  Remote Raid limit increased to 20 during the stated global window\n• 2
+ × explore max-particles\n• 1/4 adventuring distance to receive Max Part
+ icles\n• 2× max-battle xp\n\nKilder:\nhttps://pokemongo.com/en/news/gig
+ antamax-cinderace-max-battle-day-2026
+CATEGORIES:max-battle-day
+URL:https://pokemongo.com/en/news/gigantamax-cinderace-max-battle-day-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-run-30-2026-1-2026-10-03@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:Pokémon RUN 30 (Philippines)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Unown (R
+ ) ✨ – incense\n• Unown (U) ✨ – incense\n• Unown (N) ✨ – in
+ cense\n\nBonusser:\n• 2× Incense duration (excluding Daily Adventure In
+ cense)\n• 10× new-pokestop-spin xp\n• 2× pokestop-spin xp\n• 0.5×
+  hatch-distance\n\nBonuses: 2× Incense duration (excluding Daily Adventur
+ e Incense)\, 10× XP for spinning new PokéStops\, 2× XP for spinning Pok
+ éStops\, and 1/2 Hatch Distance. Two free event-exclusive Timed Research 
+ opportunities can be obtained in the event area.\n\nKilder:\nhttps://pokem
+ ongo.com/news/pokemon-run-30-2026
+LOCATION:SM Mall of Asia\, Philippines
+CATEGORIES:collaboration
+URL:https://pokemongo.com/news/pokemon-run-30-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:european-space-agency-event-1-2026-10-04@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261011
+SUMMARY:European Space Agency (Europe)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration\n\nKan fås:\n• Pikachu (Astronaut) ✨ 
+ – raid\, timed-research\n\nThis is separate from the event running until
+  April 2027.\n\nKilder:\nhttps://pokemongo.com/en/news/european-space-agen
+ cy-event
+LOCATION:ESA HQ (Paris\, France)\, ESA ESRIN (close to Rome\, at Frascati\,
+  Italy)\, ESA ESOC (Darmstadt\, Germany)\, ESA ESAC (close to Madrid\, Spa
+ in)\, ESA ESTEC (Noordwijk\, Netherlands)\, ESA ESEC (close to Redu\, Belg
+ ium)\, ESA ECSAT (Harwell\, UK)
+CATEGORIES:collaboration
+URL:https://pokemongo.com/en/news/european-space-agency-event
+END:VEVENT
+BEGIN:VEVENT
+UID:world-space-week-2026-2026-10-04@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261011
+SUMMARY:World Space Week 2026
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: event\n\nKan fås:\n• Pikachu (Astronaut) ✨ – raid\
+ , timed-research\n\nGlobal event with wild encounters and free Timed Resea
+ rch. The Timed Research can be completed through October 12\, 2026 at 11:5
+ 9 p.m. local time.\n\nKilder:\nhttps://pokemongo.com/news/world-space-week
+ -2026
+CATEGORIES:event
+URL:https://pokemongo.com/news/world-space-week-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:european-space-agency-event-2-2026-10-04@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20270501
+SUMMARY:European Space Agency (Europe)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / local-raid\n\nKan fås:\n• Pikachu (Ast
+ ronaut) ✨ – raid\n\nThis is separate from the event running October 4
+ –10th.\n\nKilder:\nhttps://pokemongo.com/en/news/european-space-agency-e
+ vent
+LOCATION:Science Museum – London\, England\, Cité de l’espace – Toul
+ ouse\, France\, Deutsches Museum – Nuremberg\, Germany\, Museu de les Ci
+ ències – València\, Spain\, Space Expo – Noordwijk\, Netherlands\, E
+ uro Space Center – Transinne\, Belgium
+CATEGORIES:collaboration
+URL:https://pokemongo.com/en/news/european-space-agency-event
+END:VEVENT
+BEGIN:VEVENT
+UID:hangul-nal-2026-2026-10-06@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261010
+SUMMARY:Hangul Day Event (Korea)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: event\n\nKan fås:\n• Unown (H) ✨ – timed-research\
+ n\nBonusser:\n• lure-duration\n• incense-duration\n• Increased Shiny
+  chance for the event-themed Lure Module and Incense encounter pool\n\nSou
+ th Korea–wide Hangul Day event. Event-themed Pokémon are attracted by r
+ egular Lure Modules and Incense (excluding Daily Adventure Incense)\; Lure
+  Modules last 1 hour and Incense lasts 2 hours. The Collection Challenge r
+ ewards 5\,000 XP\, 5\,000 Stardust\, and an encounter with Unown H.\n\nKil
+ der:\nhttps://pokemongo.com/ko/news/hangul-nal-2026
+LOCATION:South Korea
+CATEGORIES:event
+URL:https://pokemongo.com/ko/news/hangul-nal-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:weekly-branching-tr-korea-2026-4-2026-10-06@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261013
+SUMMARY:Weekly Relay – Part IV (Korea)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: timed-research\n\nGiven out at random to select players.\
+ n\nKilder:\nhttps://pokemongo.com/en/news/weekly-branching-tr-korea-2026
+LOCATION:South Korea
+CATEGORIES:timed-research
+URL:https://pokemongo.com/en/news/weekly-branching-tr-korea-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:communityday-october-2026-zorua-2026-10-10@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Community Day: Zorua
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: community-day\n\nKan fås:\n• Zorua ✨ – field-resea
+ rch\, lure\, special-research\, timed-research\, wild\n• Zoroark – evo
+ lution\n\nBonusser:\n• 3× catch xp\n• 2× catch candy\n• 2× catch-
+ chance candy-xl\n• incense-duration\n• Snapshot surprise encounters\n
+ • lure-duration\n• 1 additional Special Trade (maximum 2 for the day)\
+ n• 0.5× trade-stardust-cost\n\nMain Community Day hours are 2:00–5:00
+  p.m. local time. Zorua appears more frequently in the wild and may be Shi
+ ny or have a Special Background. Evolve Zorua during the event or up to fo
+ ur hours afterward (through 9:00 p.m. local time) to get Zoroark with the 
+ Fast Attack Sucker Punch. From 2:00–9:00 p.m. local time\, regular Lure 
+ Modules have a very high chance to attract Zorua\; one additional Special 
+ Trade is available (maximum two for the day)\; and trades require 50% less
+  Stardust. Incense activated during the event lasts three hours\, while Lu
+ re Modules last one hour. Community Day Field Research can award Zorua enc
+ ounters\, including possible Special Background encounters. Optional US$1.
+ 99 Special Research includes three Special Background Zorua encounters\, a
+ dditional Zorua encounters\, one Premium Battle Pass\, one Rare Candy XL\,
+  and other rewards. Community Ambassador event check-ins can award Timed R
+ esearch with additional Special Background Zorua encounters and premium it
+ em rewards.\n\nKilder:\nhttps://pokemongo.com/en/news/communityday-october
+ -2026-zorua
+CATEGORIES:community-day
+URL:https://pokemongo.com/en/news/communityday-october-2026-zorua
+END:VEVENT
+BEGIN:VEVENT
+UID:event-taipei-30th-anniversary-2026-1-2026-10-10@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:PokéXciting! Taipei
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Pikachu 
+ (Pink) ✨ – timed-research\n• Unown (T) ✨ – incense\n• Unown (W
+ ) ✨ – incense\n\nBonusser:\n• 5 GO Snapshot surprise encounters per 
+ day\n• Bonus balloons appear once an hour during the event\n\nTwo-day ma
+ in PokéXciting! Taipei event window. The Pink PokéXciting! Pikachu wild 
+ encounters and the Taipei GO Stamp Rally continue beyond the event and are
+  tracked as separate bars.\n\nKilder:\nhttps://pokemongo.com/en/news/event
+ -taipei-30th-anniversary-2026
+LOCATION:Taipei\, Taiwan
+CATEGORIES:collaboration
+URL:https://pokemongo.com/en/news/event-taipei-30th-anniversary-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:event-taipei-30th-anniversary-2026-2-2026-10-10@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261112
+SUMMARY:Stamp Rally PokéXciting! Taipei
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: stamp-rally\n\nKan fås:\n• Pikachu (Pink) ✨ – stam
+ p-rally-reward\, wild\n\nKilder:\nhttps://pokemongo.com/en/news/event-taip
+ ei-30th-anniversary-2026
+LOCATION:Taipei\, Taiwan
+CATEGORIES:stamp-rally
+URL:https://pokemongo.com/en/news/event-taipei-30th-anniversary-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:fall-marathon-buddy-trek-2026-2026-10-13@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261020
+SUMMARY:Fall Marathon: Buddy Trek
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: event\n\nKan fås:\n• Bramblin – field-research\, go-
+ pass\, incense\n• Pikachu (Marathon Visor) – timed-research\n\nBonusse
+ r:\n• Increased chance to encounter Shiny Electrike\n• Increased chanc
+ e to encounter Shiny Hisuian Growlithe from Incense\n• incense-duration\
+ n• 5× explore-with-buddy mega-energy\n\nGlobal Fall Marathon event feat
+ uring Bramblin’s Pokémon GO debut\, themed wild and Incense encounters\
+ , event Field Research\, free Timed Research\, and GO Pass: Fall Marathon.
+  Incense pools change on October 16 at 10:00 a.m. local time\, but this do
+ es not create a separate availability window. GO Pass Rank 10 makes Incens
+ e last two hours\; Rank 20 unlocks the listed 5× Mega Energy buddy bonus.
+  The later October 21 reward-claim deadline does not extend this calendar 
+ bar.\n\nKilder:\nhttps://pokemongo.com/en/news/fall-marathon-buddy-trek-20
+ 26
+CATEGORIES:event
+URL:https://pokemongo.com/en/news/fall-marathon-buddy-trek-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:hatch-day-2026-10-17-2026-10-17@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Sandile Hatch Day
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: hatch-day\n\nBonusser:\n• 2× hatch candy\n• 0.5× ha
+ tch-distance\n• Increased chance of hatching Shiny Sandile\n• Increase
+ d chance of receiving 2 km Eggs from spinning PokéStops\n• 0.25× hatch
+ -distance\n\nRuns from 11:00 a.m. to 5:00 p.m. local time. Sandile hatches
+  much more frequently from 2 km Eggs\, with an increased chance of hatchin
+ g Shiny Sandile and an increased chance of receiving 2 km Eggs from spinni
+ ng PokéStops. Free event-exclusive Timed Research awards an Incubator and
+  XP and expires at 5:00 p.m. Optional US$1.99 paid Timed Research grants 1
+ /4 Egg Hatch Distance during the event and rewards including one Star Piec
+ e and two Super Incubators\; this optional ticket does not make the base e
+ vent ticketed.\n\nKilder:\nhttps://pokemongo.com/en/news/sandile-hatch-day
+ -2026\nhttps://pokemongo.com/news/save-the-date-s24
+CATEGORIES:hatch-day
+URL:https://pokemongo.com/en/news/sandile-hatch-day-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-run-30-2026-taiwan-taichung-2026-10-17@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:Pokémon RUN 30 – Taichung (Taiwan)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Unown (R
+ ) ✨ – incense\n• Unown (U) ✨ – incense\n• Unown (N) ✨ – in
+ cense\n\nBonusser:\n• 2× Incense duration (excluding Daily Adventure In
+ cense)\n• 10× new-pokestop-spin xp\n• 2× pokestop-spin xp\n• 0.5×
+  hatch-distance\n\nEvent-area wild encounters and Incense encounters inclu
+ de first-partner Pokémon and Unown N\, R\, and U. Bonuses: 2× Incense du
+ ration (excluding Daily Adventure Incense)\, 10× XP for spinning new Pok
+ éStops\, 2× XP for spinning PokéStops\, and 1/2 Hatch Distance. Two fre
+ e event-exclusive Timed Research opportunities can be obtained in the even
+ t area\; their later completion/claim grace periods do not extend this cal
+ endar bar.\n\nKilder:\nhttps://pokemongo.com/news/pokemon-run-30-2026
+LOCATION:Taichung Central Park\, Taiwan
+CATEGORIES:collaboration
+URL:https://pokemongo.com/news/pokemon-run-30-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-30th-mall-exploration-sm-east-ortigas-2026-2026-10-23@pgocalend
+ ar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261109
+SUMMARY:30th Anniversary Mall Exploration – SM East Ortigas
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Pikachu 
+ (Party Hat) ✨ – timed-research\n\nBonusser:\n• lure-duration\n\nOnsi
+ te Timed Research can be obtained once total across participating Pokémon
+  30th Anniversary Mall Exploration locations and expires 10 days after acq
+ uisition\; that later completion period does not extend this calendar bar.
+  Lure Modules used in designated areas last four hours during this venue w
+ indow.\n\nKilder:\nhttps://pokemongo.com/en/news/apac-mall-exploration-202
+ 6
+LOCATION:SM East Ortigas\, Philippines
+CATEGORIES:collaboration
+URL:https://pokemongo.com/en/news/apac-mall-exploration-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-day-2026-10-24-2026-10-24@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Dynamax Uxie\, Mesprit\, and Azelf Max Battle Day
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: max-battle-day\n\nKan fås:\n• Uxie (Dynamax) ✨ – m
+ ax-battle\n• Mesprit (Dynamax) ✨ – max-battle\n• Azelf (Dynamax) 
+ ✨ – max-battle\n\nBonusser:\n• Max Particle collection limit increas
+ ed to 1\,600\n• All Power Spots host Dynamax Battles\n• Power Spots re
+ fresh more frequently\n• Additional Power Spots are active\n• 8× powe
+ r-spot max-particles\n• Up to 3 Special Trades for the day\n• Daily Re
+ mote Raid Pass limit increased to 20\n• 2× explore max-particles\n• 1
+ /4 adventuring distance to receive Max Particles\n• 2× max-battle xp\n\
+ nEvent runs from 2:00 p.m. to 5:00 p.m. local time. Dynamax Uxie appears i
+ n Asia-Pacific\, Dynamax Mesprit in Europe\, the Middle East\, Africa\, an
+ d India\, and Dynamax Azelf in the Americas and Greenland. An optional pai
+ d ticket grants event-exclusive Timed Research and 2× XP from Max Battles
+ .\n\nKilder:\nhttps://pokemongo.com/news/dynamax-uxie-mesprit-azelf-max-ba
+ ttle-day-2026\nhttps://pokemongo.com/news/save-the-date-s24
+CATEGORIES:max-battle-day
+URL:https://pokemongo.com/news/dynamax-uxie-mesprit-azelf-max-battle-day-20
+ 26
+END:VEVENT
+BEGIN:VEVENT
+UID:super-mega-raid-day-2026-10-31-2026-10-31@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Super Mega Raid Day
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: raid-day\n\nDate and event type are officially announced\
+ ; featured Pokémon/details have not yet been published.\n\nKilder:\nhttps
+ ://pokemongo.com/news/save-the-date-s24
+CATEGORIES:raid-day
+URL:https://pokemongo.com/news/save-the-date-s24
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-run-30-2026-taiwan-kaohsiung-2026-10-31@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+SUMMARY:Pokémon RUN 30 – Kaohsiung (Taiwan)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Unown (R
+ ) ✨ – incense\n• Unown (U) ✨ – incense\n• Unown (N) ✨ – in
+ cense\n\nBonusser:\n• 2× Incense duration (excluding Daily Adventure In
+ cense)\n• 10× new-pokestop-spin xp\n• 2× pokestop-spin xp\n• 0.5×
+  hatch-distance\n\nEvent-area wild encounters and Incense encounters inclu
+ de first-partner Pokémon and Unown N\, R\, and U. Bonuses: 2× Incense du
+ ration (excluding Daily Adventure Incense)\, 10× XP for spinning new Pok
+ éStops\, 2× XP for spinning PokéStops\, and 1/2 Hatch Distance. Two fre
+ e event-exclusive Timed Research opportunities can be obtained in the even
+ t area\; their later completion/claim grace periods do not extend this cal
+ endar bar.\n\nKilder:\nhttps://pokemongo.com/news/pokemon-run-30-2026
+LOCATION:Dream Mall\, Kaohsiung\, Taiwan
+CATEGORIES:collaboration
+URL:https://pokemongo.com/news/pokemon-run-30-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:go-wild-area-mexico-city-2026-2026-11-06@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+SUMMARY:Pokémon GO Wild Area: Mexico City
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: wild-area\nKræver billet\n\nKan fås:\n• Dialga (Dynam
+ ax) ✨ – max-battle\n• Palkia (Dynamax) ✨ – max-battle\n• Macha
+ mp (Modern Jacket) ✨ – raid\, wild\n• Sliggoo (Hisuian) ✨ – wild
+ \n• Goodra (Hisuian) – evolution\n• Klefki ✨ – egg\n• Unown (C
+ ) ✨ – incense\n• Unown (E) ✨ – incense\n• Unown (I) ✨ – in
+ cense\n• Unown (M) ✨ – incense\n• Unown (O) ✨ – incense\n• U
+ nown (X) ✨ – incense\n• Latias ✨ – incense\n• Latios ✨ – i
+ ncense\n\nBonusser:\n• Increased chance of encountering Shiny Pokémon\n
+ • 0.5× hatch-distance\n• Up to 10 daily Raid Passes from spinning Gym
+ s\n• 3/4 Max Particle cost for unlocking and powering up Max Moves\n• 
+ Daily Max Particle collection limit increased to 8\,000\n• Increased Max
+  Particles from Power Spots and exploration\n• Increased chance of 10 km
+  Eggs from PokéStops and Gyms\n• lure-duration\n• incense-duration\n
+ • 2× catch candy\n• Chance to encounter mighty Pokémon on Routes\n
+ • party-play-duration\n• 3 GO Snapshot surprise event encounters per d
+ ay\n• Chance to get GO Safari Balls from PokéStops and Gyms\n• Up to 
+ 6 Special Trades on the ticketed event day\n• 0.5× trade-stardust-cost\
+ n• Up to 18 daily Raid Passes from spinning Gyms\n• Additional 5\,000 
+ XP from completed raids\n• 2× max-battle xp\n• 6 additional Candy for
+  raid catches\n• 3 additional Candy XL for raid catches\n• 1 additiona
+ l Candy for Max Battle catches\n• 1 additional Candy XL for Max Battle c
+ atches\n• 0.25× hatch-distance\n• 3× hatch xp\n• 3× hatch candy\n
+ • 3× hatch stardust\n\nTicketed live event. Event gameplay is available
+  only at the date\, time\, and location on the ticket.\n\nKilder:\nhttps:/
+ /pokemongo.com/en/gowildarea/mexico-city\nhttps://pokemongo.com/news/save-
+ the-date-go-wild-area-2026\nhttps://pokemongo.com/gowildarea/mexico-city/g
+ ameplay
+LOCATION:Mexico City\, Mexico
+CATEGORIES:wild-area
+URL:https://pokemongo.com/en/gowildarea/mexico-city
+END:VEVENT
+BEGIN:VEVENT
+UID:go-wild-area-sendai-tohoku-2026-2026-11-06@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+SUMMARY:Pokémon GO Wild Area: Sendai • Tohoku
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: wild-area\nKræver billet\n\nKan fås:\n• Dialga (Dynam
+ ax) ✨ – max-battle\n• Palkia (Dynamax) ✨ – max-battle\n• Macha
+ mp (Modern Jacket) ✨ – raid\, wild\n• Sliggoo (Hisuian) ✨ – wild
+ \n• Goodra (Hisuian) – evolution\n• Klefki ✨ – egg\n• Unown (A
+ ) ✨ – incense\n• Unown (D) ✨ – incense\n• Unown (E) ✨ – in
+ cense\n• Unown (I) ✨ – incense\n• Unown (N) ✨ – incense\n• U
+ nown (S) ✨ – incense\n• Latias ✨ – incense\n• Latios ✨ – i
+ ncense\n\nBonusser:\n• Increased chance of encountering Shiny Pokémon\n
+ • 0.5× hatch-distance\n• Up to 10 daily Raid Passes from spinning Gym
+ s\n• 3/4 Max Particle cost for unlocking and powering up Max Moves\n• 
+ Daily Max Particle collection limit increased to 8\,000\n• Increased Max
+  Particles from Power Spots and exploration\n• Increased chance of 10 km
+  Eggs from PokéStops and Gyms\n• lure-duration\n• incense-duration\n
+ • 2× catch candy\n• Chance to encounter mighty Pokémon on Routes\n
+ • party-play-duration\n• 3 GO Snapshot surprise event encounters per d
+ ay\n• Chance to get GO Safari Balls from PokéStops and Gyms\n• Up to 
+ 6 Special Trades on the ticketed event day\n• 0.5× trade-stardust-cost\
+ n• Up to 18 daily Raid Passes from spinning Gyms\n• Additional 5\,000 
+ XP from completed raids\n• 2× max-battle xp\n• 6 additional Candy for
+  raid catches\n• 3 additional Candy XL for raid catches\n• 1 additiona
+ l Candy for Max Battle catches\n• 1 additional Candy XL for Max Battle c
+ atches\n• 0.25× hatch-distance\n• 3× hatch xp\n• 3× hatch candy\n
+ • 3× hatch stardust\n\nTicketed live event. A ticket covers one day of 
+ gameplay\; extra-day add-ons are available.\n\nKilder:\nhttps://pokemongo.
+ com/en/gowildarea/sendai\nhttps://pokemongo.com/news/save-the-date-go-wild
+ -area-2026\nhttps://pokemongo.com/gowildarea/sendai/gameplay
+LOCATION:Sendai / Miyagi Prefecture\, Japan
+CATEGORIES:wild-area
+URL:https://pokemongo.com/en/gowildarea/sendai
+END:VEVENT
+BEGIN:VEVENT
+UID:event-apac-30th-anniversary-2026-2026-11-07@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:PokéXciting! Singapore
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Pikachu 
+ (Blue) ✨ – stamp-rally-reward\, timed-research\n• Unown (S) ✨ – 
+ incense\n• Unown (G) ✨ – incense\n• Venusaur (Gigantamax) ✨ – 
+ max-battle\n• Charizard (Gigantamax) ✨ – max-battle\n• Blastoise (
+ Gigantamax) ✨ – max-battle\n\nBonusser:\n• 2× pokestop-spin xp\n•
+  50% less Stardust required for trades\n• 2 additional Special Trades\n
+ • lure-duration\n• 2× XP for catching Pokémon with Nice Throws or be
+ tter\n• Increased Candy for catching Pokémon with Nice Throws or better
+ \n• 5 GO Snapshot surprise encounters per day\n• Bonus balloons appear
+  once an hour during the event\n• Special in-game map effect\n\nPokéXci
+ ting! Singapore runs November 7–8 from 10:00 a.m. to 10:00 p.m. local ti
+ me\, with event gameplay available citywide. Changi Airport and Jewel host
+  a dedicated five-stamp Regional GO Stamp Rally\, while the Cross-Region G
+ O Stamp Rally stamp at Changi Airport Terminal 3 awards PokéXciting! Pika
+ chu (Blue) with a local Location Background. Two free Timed Research track
+ s\, event-themed Field Research\, boosted wild encounters\, Lure and Incen
+ se encounters\, and Gigantamax Venusaur\, Charizard\, and Blastoise are av
+ ailable during the event. The extended Blue Pikachu wild/stamp-rally avail
+ ability after the weekend is tracked separately.\n\nKilder:\nhttps://pokem
+ ongo.com/news/event-singapore-30th-anniversary-2026\nhttps://pokemongo.com
+ /en/news/event-apac-30th-anniversary-2026
+LOCATION:Singapore (citywide)
+CATEGORIES:collaboration
+URL:https://pokemongo.com/news/event-singapore-30th-anniversary-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-run-30-2026-2-2026-11-07@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:Pokémon RUN 30 × Pokémon GO – Singapore
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Unown (N
+ ) ✨ – incense\n• Unown (R) ✨ – incense\n• Unown (U) ✨ – in
+ cense\n\nBonusser:\n• 2× Incense duration (excluding Daily Adventure In
+ cense)\n• 10× new-pokestop-spin xp\n• 2× pokestop-spin xp\n• 0.5×
+  hatch-distance\n\nEvent-area wild encounters and Incense encounters inclu
+ de first-partner Pokémon and Unown N\, R\, and U. Bonuses: 2× Incense du
+ ration (excluding Daily Adventure Incense)\, 10× XP for spinning new Pok
+ éStops\, 2× XP for spinning PokéStops\, and 1/2 Hatch Distance. Two fre
+ e event-exclusive Timed Research opportunities can be obtained in the even
+ t area\; their later completion/claim grace periods do not extend this cal
+ endar bar.\n\nKilder:\nhttps://pokemongo.com/news/pokemon-run-30-2026
+LOCATION:The Kallang\, Singapore
+CATEGORIES:collaboration
+URL:https://pokemongo.com/news/pokemon-run-30-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokexciting-singapore-pikachu-wild-2026-2026-11-07@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261209
+SUMMARY:PokéXciting! Singapore – Pikachu Wild Encounters
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration\n\nKan fås:\n• Pikachu (Blue) ✨ – st
+ amp-rally-reward\, wild\n\nPokéXciting! Pikachu (Blue) remains available 
+ as a wild encounter in Singapore for one month after the November 7–8 ev
+ ent concludes (through December 8). The separate five-stamp Regional GO St
+ amp Rally at Changi Airport and Jewel lasts one month after the November 7
+  event start (through approximately December 7\; exact cutoff time not spe
+ cified)\, so its reward method has a narrower end date. The long-running C
+ ross-Region rally and its Blue Pikachu Location Background reward are trac
+ ked separately through September 11\, 2029.\n\nKilder:\nhttps://pokemongo.
+ com/en/news/event-apac-30th-anniversary-2026\nhttps://sg.portal-pokemon.co
+ m/30th/topics/pokexciting_news0/
+LOCATION:Singapore
+CATEGORIES:collaboration
+URL:https://pokemongo.com/en/news/event-apac-30th-anniversary-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-30th-mall-exploration-jewel-changi-airport-2026-2026-11-07@pgoc
+ alendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20270201
+SUMMARY:Pokémon 30th Anniversary Mall Exploration – Jewel Changi Airport
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Pikachu 
+ (Party Hat) ✨ – timed-research\n\nBonusser:\n• lure-duration\n\nOnsi
+ te Timed Research can be obtained once total across participating Pokémon
+  30th Anniversary Mall Exploration locations and expires 10 days after acq
+ uisition\; that later completion period does not extend this calendar bar.
+  Lure Modules used in designated areas last four hours during this venue w
+ indow.\n\nKilder:\nhttps://pokemongo.com/zh-Hant/news/apac-mall-exploratio
+ n-2026
+LOCATION:Jewel Changi Airport\, Singapore
+CATEGORIES:collaboration
+URL:https://pokemongo.com/zh-Hant/news/apac-mall-exploration-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-30th-mall-exploration-changi-airport-2026-2026-11-07@pgocalenda
+ r
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20270301
+SUMMARY:Pokémon 30th Anniversary Mall Exploration – Changi Airport
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Pikachu 
+ (Party Hat) ✨ – timed-research\n\nBonusser:\n• lure-duration\n\nOnsi
+ te Timed Research can be obtained once total across participating Pokémon
+  30th Anniversary Mall Exploration locations and expires 10 days after acq
+ uisition\; that later completion period does not extend this calendar bar.
+  Lure Modules used in designated areas last four hours during this venue w
+ indow.\n\nKilder:\nhttps://pokemongo.com/zh-Hant/news/apac-mall-exploratio
+ n-2026
+LOCATION:Changi Airport\, Singapore
+CATEGORIES:collaboration
+URL:https://pokemongo.com/zh-Hant/news/apac-mall-exploration-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-run-30-2026-taiwan-new-taipei-2026-11-14@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:Pokémon RUN 30 × Pokémon GO – New Taipei
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Unown (N
+ ) ✨ – incense\n• Unown (R) ✨ – incense\n• Unown (U) ✨ – in
+ cense\n\nBonusser:\n• 2× Incense duration (excluding Daily Adventure In
+ cense)\n• 10× new-pokestop-spin xp\n• 2× pokestop-spin xp\n• 0.5×
+  hatch-distance\n\nEvent-area wild encounters and Incense encounters inclu
+ de first-partner Pokémon and Unown N\, R\, and U. Bonuses: 2× Incense du
+ ration (excluding Daily Adventure Incense)\, 10× XP for spinning new Pok
+ éStops\, 2× XP for spinning PokéStops\, and 1/2 Hatch Distance. Two fre
+ e event-exclusive Timed Research opportunities can be obtained in the even
+ t area\; their later completion/claim grace periods do not extend this cal
+ endar bar.\n\nKilder:\nhttps://pokemongo.com/news/pokemon-run-30-2026
+LOCATION:New Taipei Metropolitan Park\, Taiwan
+CATEGORIES:collaboration
+URL:https://pokemongo.com/news/pokemon-run-30-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:save-the-date-go-wild-area-2026-2-2026-11-14@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:Pokémon GO Wild Area 2026 – Global
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: wild-area\n\nKan fås:\n• Dialga (Dynamax) ✨ – max-
+ battle\n• Palkia (Dynamax) ✨ – max-battle\n• Machamp (Modern Jacke
+ t) ✨ – raid\n• Klefki ✨ – egg\n• Unown (D) ✨ – incense\n
+ • Unown (I) ✨ – incense\n• Unown (L) ✨ – incense\n• Unown (W
+ ) ✨ – incense\n• Latias ✨ – incense\n• Latios ✨ – incense\
+ n• Machamp – event\n• Flygon – event\n• Metagross – event\n•
+  Magnezone – event\n• Haxorus – event\n• Hydreigon – event\n• 
+ Tinkaton – event\n\nBonusser:\n• Chance to get GO Safari Balls from Po
+ kéStops and Gyms\n• Up to 3 free Raid Passes per day\n• Daily Max Par
+ ticle collection limit increased to 1\,600\n• 3 GO Snapshot surprise eve
+ nt encounters per day\n• party-play-duration\n• Chance to encounter mi
+ ghty Pokémon on Routes\n• Increased chance of encountering Shiny Pokém
+ on\n• Daily Max Particle collection limit increased to 3\,200\n• Incre
+ ased Max Particles from Power Spots and exploration\n• Up to 6 free Raid
+  Passes per day\n• 2× catch candy\n• 2× incense-duration\n• Increa
+ sed chance of 10 km Eggs from PokéStops and Gyms\n• 6 GO Snapshot surpr
+ ise event encounters per day\n• lure-duration\n• Up to 6 Special Trade
+ s per day\n• 0.5× trade-stardust-cost\n• GO Safari Ball Supply Balloo
+ n appears hourly during event hours\n\nKilder:\nhttps://pokemongo.com/en/n
+ ews/save-the-date-go-wild-area-2026\nhttps://pokemongo.com/gowildarea/glob
+ al
+CATEGORIES:wild-area
+URL:https://pokemongo.com/en/news/save-the-date-go-wild-area-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-30th-mall-exploration-sm-southmall-2026-2026-11-20@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261201
+SUMMARY:Pokémon 30th Anniversary Mall Exploration – SM Southmall
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Pikachu 
+ (Party Hat) ✨ – timed-research\n\nBonusser:\n• lure-duration\n\nOnsi
+ te Timed Research can be obtained once total across participating Pokémon
+  30th Anniversary Mall Exploration locations and expires 10 days after acq
+ uisition\; that later completion period does not extend this calendar bar.
+  Lure Modules used in designated areas last four hours during this venue w
+ indow.\n\nKilder:\nhttps://pokemongo.com/zh-Hant/news/apac-mall-exploratio
+ n-2026
+LOCATION:SM Southmall\, Philippines
+CATEGORIES:collaboration
+URL:https://pokemongo.com/zh-Hant/news/apac-mall-exploration-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:community-day-november-21-2026-2026-11-21@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:November 2026 Community Day
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: community-day\n\nDate announced in the Season save-the-da
+ te post\; featured Pokémon had not yet been specified in the bootstrap da
+ ta.\n\nKilder:\nhttps://pokemongo.com/en/news/save-the-date-s24
+CATEGORIES:community-day
+URL:https://pokemongo.com/en/news/save-the-date-s24
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-run-30-2026-3-2026-11-21@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY:Pokémon RUN 30 × Pokémon GO – Malaysia
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Unown (N
+ ) ✨ – incense\n• Unown (R) ✨ – incense\n• Unown (U) ✨ – in
+ cense\n\nBonusser:\n• 2× Incense duration (excluding Daily Adventure In
+ cense)\n• 10× new-pokestop-spin xp\n• 2× pokestop-spin xp\n• 0.5×
+  hatch-distance\n\nEvent-area wild encounters and Incense encounters inclu
+ de first-partner Pokémon and Unown N\, R\, and U. Bonuses: 2× Incense du
+ ration (excluding Daily Adventure Incense)\, 10× XP for spinning new Pok
+ éStops\, 2× XP for spinning PokéStops\, and 1/2 Hatch Distance. Two fre
+ e event-exclusive Timed Research opportunities can be obtained in the even
+ t area\; their later completion/claim grace periods do not extend this cal
+ endar bar.\n\nKilder:\nhttps://pokemongo.com/news/pokemon-run-30-2026
+LOCATION:KLCC Plaza Petronas\, Malaysia
+CATEGORIES:collaboration
+URL:https://pokemongo.com/news/pokemon-run-30-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:super-mega-raid-day-2026-11-28-2026-11-28@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:November 28\, 2026 Super Mega Raid Day
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: raid-day\n\nDate and event type are officially announced\
+ ; featured Pokémon/details have not yet been published.\n\nKilder:\nhttps
+ ://pokemongo.com/news/save-the-date-s24
+CATEGORIES:raid-day
+URL:https://pokemongo.com/news/save-the-date-s24
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-30th-mall-exploration-sm-north-edsa-2026-2026-12-10@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20270104
+SUMMARY:Pokémon 30th Anniversary Mall Exploration – SM North EDSA
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Pikachu 
+ (Party Hat) ✨ – timed-research\n\nBonusser:\n• lure-duration\n\nOnsi
+ te Timed Research can be obtained once total across participating Pokémon
+  30th Anniversary Mall Exploration locations and expires 10 days after acq
+ uisition\; that later completion period does not extend this calendar bar.
+  Lure Modules used in designated areas last four hours during this venue w
+ indow.\n\nKilder:\nhttps://pokemongo.com/zh-Hant/news/apac-mall-exploratio
+ n-2026
+LOCATION:SM North EDSA\, Philippines
+CATEGORIES:collaboration
+URL:https://pokemongo.com/zh-Hant/news/apac-mall-exploration-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-run-30-2026-4-2026-12-12@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:Pokémon RUN 30 × Pokémon GO – Indonesia
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Unown (N
+ ) ✨ – incense\n• Unown (R) ✨ – incense\n• Unown (U) ✨ – in
+ cense\n\nBonusser:\n• 2× Incense duration (excluding Daily Adventure In
+ cense)\n• 10× new-pokestop-spin xp\n• 2× pokestop-spin xp\n• 0.5×
+  hatch-distance\n\nEvent-area wild encounters and Incense encounters inclu
+ de first-partner Pokémon and Unown N\, R\, and U. Bonuses: 2× Incense du
+ ration (excluding Daily Adventure Incense)\, 10× XP for spinning new Pok
+ éStops\, 2× XP for spinning PokéStops\, and 1/2 Hatch Distance. Two fre
+ e event-exclusive Timed Research opportunities can be obtained in the even
+ t area\; their later completion/claim grace periods do not extend this cal
+ endar bar.\n\nKilder:\nhttps://pokemongo.com/news/pokemon-run-30-2026
+LOCATION:Gelora Bung Karno (GBK)\, Jakarta\, Indonesia
+CATEGORIES:collaboration
+URL:https://pokemongo.com/news/pokemon-run-30-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-run-30-2027-thailand-2027-01-09@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+SUMMARY:Pokémon RUN 30 × Pokémon GO – Thailand
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Unown (N
+ ) ✨ – incense\n• Unown (R) ✨ – incense\n• Unown (U) ✨ – in
+ cense\n\nBonusser:\n• 2× Incense duration (excluding Daily Adventure In
+ cense)\n• 10× new-pokestop-spin xp\n• 2× pokestop-spin xp\n• 0.5×
+  hatch-distance\n\nEvent-area wild encounters and Incense encounters inclu
+ de first-partner Pokémon and Unown N\, R\, and U. Bonuses: 2× Incense du
+ ration (excluding Daily Adventure Incense)\, 10× XP for spinning new Pok
+ éStops\, 2× XP for spinning PokéStops\, and 1/2 Hatch Distance. Two fre
+ e event-exclusive Timed Research opportunities can be obtained in the even
+ t area\; their later completion/claim grace periods do not extend this cal
+ endar bar.\n\nKilder:\nhttps://pokemongo.com/news/pokemon-run-30-2026
+LOCATION:CentralWorld outdoor plaza\, Bangkok\, Thailand
+CATEGORIES:collaboration
+URL:https://pokemongo.com/news/pokemon-run-30-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-30th-mall-exploration-sm-marikina-2027-2027-01-15@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270201
+SUMMARY:Pokémon 30th Anniversary Mall Exploration – SM Marikina
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Pikachu 
+ (Party Hat) ✨ – timed-research\n\nBonusser:\n• lure-duration\n\nOnsi
+ te Timed Research can be obtained once total across participating Pokémon
+  30th Anniversary Mall Exploration locations and expires 10 days after acq
+ uisition\; that later completion period does not extend this calendar bar.
+  Lure Modules used in designated areas last four hours during this venue w
+ indow.\n\nKilder:\nhttps://pokemongo.com/zh-Hant/news/apac-mall-exploratio
+ n-2026
+LOCATION:SM Marikina\, Philippines
+CATEGORIES:collaboration
+URL:https://pokemongo.com/zh-Hant/news/apac-mall-exploration-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-run-30-2027-hong-kong-2027-01-23@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270125
+SUMMARY:Pokémon RUN 30 × Pokémon GO – Hong Kong
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Unown (N
+ ) ✨ – incense\n• Unown (R) ✨ – incense\n• Unown (U) ✨ – in
+ cense\n\nBonusser:\n• 2× Incense duration (excluding Daily Adventure In
+ cense)\n• 10× new-pokestop-spin xp\n• 2× pokestop-spin xp\n• 0.5×
+  hatch-distance\n\nEvent-area wild encounters and Incense encounters inclu
+ de first-partner Pokémon and Unown N\, R\, and U. Bonuses: 2× Incense du
+ ration (excluding Daily Adventure Incense)\, 10× XP for spinning new Pok
+ éStops\, 2× XP for spinning PokéStops\, and 1/2 Hatch Distance. Two fre
+ e event-exclusive Timed Research opportunities can be obtained in the even
+ t area\; their later completion/claim grace periods do not extend this cal
+ endar bar.\n\nKilder:\nhttps://pokemongo.com/news/pokemon-run-30-2026
+LOCATION:Hong Kong Science Park\, Hong Kong
+CATEGORIES:collaboration
+URL:https://pokemongo.com/news/pokemon-run-30-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokexciting-manila-2027-2027-01-23@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270125
+SUMMARY:PokéXciting! Manila
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Pikachu 
+ (Red) ✨ – timed-research\n• Unown (P) ✨ – incense\n• Unown (H)
+  ✨ – incense\n\nBonusser:\n• 5 GO Snapshot surprise encounters per d
+ ay\n• Bonus balloons appear once an hour during the event\n\nTwo-day mai
+ n PokéXciting! Manila event window. Red PokéXciting! Pikachu remains ava
+ ilable in the wild for one month after the event and is tracked separately
+ . A local five-stamp GO Stamp Rally is also announced to continue after th
+ e event\; its exact cutoff is awaiting a city-specific source or in-game t
+ imestamp.\n\nKilder:\nhttps://pokemongo.com/news/event-apac-30th-anniversa
+ ry-2026
+LOCATION:SM Mall of Asia surroundings\, Manila\, Philippines
+CATEGORIES:collaboration
+URL:https://pokemongo.com/news/event-apac-30th-anniversary-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokexciting-manila-pikachu-wild-2027-2027-01-23@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270225
+SUMMARY:PokéXciting! Manila – Pikachu Wild Encounters
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration\n\nKan fås:\n• Pikachu (Red) ✨ – sta
+ mp-rally-reward\, wild\n\nPokéXciting! Pikachu (Red) remains available as
+  a wild encounter in Manila for one month after the January 23–24 event 
+ concludes. This extended wild-encounter window is separate from the two-da
+ y main event.\n\nKilder:\nhttps://pokemongo.com/en/news/event-apac-30th-an
+ niversary-2026\nhttps://ph.portal-pokemon.com/30th/topics/pokexciting_news
+ 0/
+LOCATION:Manila\, Philippines
+CATEGORIES:collaboration
+URL:https://pokemongo.com/en/news/event-apac-30th-anniversary-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-30th-mall-exploration-sm-seaside-cebu-2027-2027-02-05@pgocalend
+ ar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270215
+SUMMARY:Pokémon 30th Anniversary Mall Exploration – SM Seaside Cebu
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Pikachu 
+ (Party Hat) ✨ – timed-research\n\nBonusser:\n• lure-duration\n\nOnsi
+ te Timed Research can be obtained once total across participating Pokémon
+  30th Anniversary Mall Exploration locations and expires 10 days after acq
+ uisition\; that later completion period does not extend this calendar bar.
+  Lure Modules used in designated areas last four hours during this venue w
+ indow.\n\nKilder:\nhttps://pokemongo.com/zh-Hant/news/apac-mall-exploratio
+ n-2026
+LOCATION:SM Seaside Cebu\, Philippines
+CATEGORIES:collaboration
+URL:https://pokemongo.com/zh-Hant/news/apac-mall-exploration-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokexciting-bangkok-2027-2027-02-13@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270215
+SUMMARY:PokéXciting! Bangkok
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Unown (T
+ ) ✨ – incense\n• Unown (H) ✨ – incense\n\nBonusser:\n• 5 GO Sn
+ apshot surprise encounters per day\n• Bonus balloons appear once an hour
+  during the event\n\nTwo-day main PokéXciting! Bangkok event window. The 
+ city's PokéXciting! Pikachu remains available in the wild for one month a
+ fter the event and is tracked separately. A local five-stamp GO Stamp Rall
+ y is also announced to continue after the event\; its exact cutoff is awai
+ ting detailed official information.\n\nKilder:\nhttps://pokemongo.com/news
+ /event-apac-30th-anniversary-2026
+LOCATION:Bangkok\, Thailand
+CATEGORIES:collaboration
+URL:https://pokemongo.com/news/event-apac-30th-anniversary-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pokexciting-bangkok-pikachu-wild-2027-2027-02-13@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270315
+SUMMARY:PokéXciting! Bangkok – Pikachu Wild Encounters
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration\n\nBangkok's region-exclusive PokéXciting!
+  Pikachu remains available as a wild encounter for one month after the Feb
+ ruary 13–14 event concludes. The costume color and final event gameplay 
+ area have not yet been announced. This extended wild-encounter window is s
+ eparate from the two-day main event.\n\nKilder:\nhttps://pokemongo.com/en/
+ news/event-apac-30th-anniversary-2026\nhttps://th.portal-pokemon.com/30th/
+ topics/pokexciting_news0/
+LOCATION:Bangkok\, Thailand
+CATEGORIES:collaboration
+URL:https://pokemongo.com/en/news/event-apac-30th-anniversary-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:go-tour-alola-kaohsiung-2027-2027-02-19@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270222
+SUMMARY:Pokémon GO Tour: Alola – Kaohsiung
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: go-tour\nKræver billet\n\nOfficial save-the-date for the
+  Kaohsiung in-person Pokémon GO Tour: Alola event. Tickets and detailed g
+ ameplay information are scheduled to be announced next Season.\n\nKilder:\
+ nhttps://pokemongo.com/en/news/save-the-date-go-tour-2027
+LOCATION:Kaohsiung\, Taiwan
+CATEGORIES:go-tour
+URL:https://pokemongo.com/en/news/save-the-date-go-tour-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:go-tour-alola-los-angeles-2027-2027-02-19@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270222
+SUMMARY:Pokémon GO Tour: Alola – Los Angeles
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: go-tour\nKræver billet\n\nOfficial save-the-date for the
+  Los Angeles in-person Pokémon GO Tour: Alola event. Tickets and detailed
+  gameplay information are scheduled to be announced next Season.\n\nKilder
+ :\nhttps://pokemongo.com/en/news/save-the-date-go-tour-2027
+LOCATION:Los Angeles\, California\, USA
+CATEGORIES:go-tour
+URL:https://pokemongo.com/en/news/save-the-date-go-tour-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-30th-mall-exploration-sm-davao-2027-2027-02-20@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270308
+SUMMARY:Pokémon 30th Anniversary Mall Exploration – SM Davao
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Pikachu 
+ (Party Hat) ✨ – timed-research\n\nBonusser:\n• lure-duration\n\nOnsi
+ te Timed Research can be obtained once total across participating Pokémon
+  30th Anniversary Mall Exploration locations and expires 10 days after acq
+ uisition\; that later completion period does not extend this calendar bar.
+  Lure Modules used in designated areas last four hours during this venue w
+ indow.\n\nKilder:\nhttps://pokemongo.com/zh-Hant/news/apac-mall-exploratio
+ n-2026
+LOCATION:SM Davao\, Philippines
+CATEGORIES:collaboration
+URL:https://pokemongo.com/zh-Hant/news/apac-mall-exploration-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:go-tour-alola-global-2027-2027-02-27@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270301
+SUMMARY:Pokémon GO Tour: Alola – Global
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: go-tour\n\nOfficial save-the-date for the worldwide Poké
+ mon GO Tour: Alola finale. The announcement says tickets and detailed game
+ play information will be available next Season\; the base global event rem
+ ains classified as global until the source establishes that paid access is
+  required.\n\nKilder:\nhttps://pokemongo.com/en/news/save-the-date-go-tour
+ -2027
+CATEGORIES:go-tour
+URL:https://pokemongo.com/en/news/save-the-date-go-tour-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-30th-mall-exploration-sm-cdo-downtown-2027-2027-03-13@pgocalend
+ ar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270329
+SUMMARY:Pokémon 30th Anniversary Mall Exploration – SM CDO Downtown
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Pikachu 
+ (Party Hat) ✨ – timed-research\n\nBonusser:\n• lure-duration\n\nOnsi
+ te Timed Research can be obtained once total across participating Pokémon
+  30th Anniversary Mall Exploration locations and expires 10 days after acq
+ uisition\; that later completion period does not extend this calendar bar.
+  Lure Modules used in designated areas last four hours during this venue w
+ indow.\n\nKilder:\nhttps://pokemongo.com/zh-Hant/news/apac-mall-exploratio
+ n-2026
+LOCATION:SM CDO Downtown\, Philippines
+CATEGORIES:collaboration
+URL:https://pokemongo.com/zh-Hant/news/apac-mall-exploration-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:festival-of-lights-2026-2026-11-06@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+SUMMARY:Festival of Lights
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: event\n\nKan fås:\n• Pikachu (Saree) ✨ – raid\, ti
+ med-research\, wild\n• Pikachu (Kurta) ✨ – raid\, timed-research\, w
+ ild\n\nBonusser:\n• 3× Lure Module duration\n\nIndia-exclusive event wi
+ th saree/kurta Pikachu raids\, Sparkle O’Clock wild bursts\, increased e
+ vent-themed Lure Module encounters\, Collection Challenges\, and 3× Lure 
+ Module duration. Branched Timed Research becomes available November 1 at 6
+ :00 a.m.\; the official article does not state its end time\, so its separ
+ ate availability window is pending clarification rather than guessed.\n\nK
+ ilder:\nhttps://pokemongo.com/en/news/festival-of-lights-2026
+LOCATION:India
+CATEGORIES:event
+URL:https://pokemongo.com/en/news/festival-of-lights-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:tcg-30th-celebration-event-2026-09-27@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261021
+SUMMARY:TCG 30th Celebration (U.S.A.)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / local-raid\n\nKan fås:\n• Gengar (Mega
+ ) ✨ – mega-raid\n• Gengar Knit Cap – gift-card-promotion\n\nKilder
+ :\nhttps://pokemongo.com/news/tcg-30th-celebration-event
+LOCATION:Participating Best Buy\, GameStop & Target retail locations
+CATEGORIES:collaboration
+URL:https://pokemongo.com/news/tcg-30th-celebration-event
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-x-adidas-code-2026-2026-09-29@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20270116
+SUMMARY:adidas Avatar Shoes Offer Code
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / free-code\n\nKan fås:\n• adidas Shoes 
+ – code\n\nUse offer code ADIDASxPOKEMON in the Pokémon GO Web Store to 
+ receive a pair of adidas shoes for your avatar. The code is available thro
+ ugh January 15\, 2027.\n\nKilder:\nhttps://pokemongo.com/en/news/pokemon-x
+ -adidas-2026
+CATEGORIES:collaboration
+URL:https://pokemongo.com/en/news/pokemon-x-adidas-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:minior-shower-orionids-2026-10-19@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261025
+SUMMARY:Minior Shower: Orionids
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: event\n\nKan fås:\n• Minior (Meteor Form) – wild\n\n
+ Bonusser:\n• Increased Stardust for catching Minior\n• Increased chanc
+ e of encountering Minior in the wild from 5:00 p.m. to 9:00 p.m. local tim
+ e each day\n\nThe shower runs from 5:00 p.m. local time on the start date 
+ through 11:59 p.m. local time on the end date. Shooting stars appear in th
+ e in-game sky from 5:00 p.m. to 9:00 p.m. each day. Pokémon GO announced 
+ these Minior showers as recurring annually.\n\nKilder:\nhttps://pokemongo.
+ com/news/minior-meteor-showers-2026
+CATEGORIES:event
+URL:https://pokemongo.com/news/minior-meteor-showers-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:minior-shower-leonids-2026-11-14@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261120
+SUMMARY:Minior Shower: Leonids
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: event\n\nKan fås:\n• Minior (Meteor Form) – wild\n\n
+ Bonusser:\n• Increased Stardust for catching Minior\n• Increased chanc
+ e of encountering Minior in the wild from 5:00 p.m. to 9:00 p.m. local tim
+ e each day\n\nThe shower runs from 5:00 p.m. local time on the start date 
+ through 11:59 p.m. local time on the end date. Shooting stars appear in th
+ e in-game sky from 5:00 p.m. to 9:00 p.m. each day. Pokémon GO announced 
+ these Minior showers as recurring annually.\n\nKilder:\nhttps://pokemongo.
+ com/news/minior-meteor-showers-2026
+CATEGORIES:event
+URL:https://pokemongo.com/news/minior-meteor-showers-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:minior-shower-geminids-2026-12-11@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261217
+SUMMARY:Minior Shower: Geminids
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: event\n\nKan fås:\n• Minior (Meteor Form) – wild\n\n
+ Bonusser:\n• Increased Stardust for catching Minior\n• Increased chanc
+ e of encountering Minior in the wild from 5:00 p.m. to 9:00 p.m. local tim
+ e each day\n\nThe shower runs from 5:00 p.m. local time on the start date 
+ through 11:59 p.m. local time on the end date. Shooting stars appear in th
+ e in-game sky from 5:00 p.m. to 9:00 p.m. each day. Pokémon GO announced 
+ these Minior showers as recurring annually.\n\nKilder:\nhttps://pokemongo.
+ com/news/minior-meteor-showers-2026
+CATEGORIES:event
+URL:https://pokemongo.com/news/minior-meteor-showers-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:minior-shower-eta-aquariids-2027-05-03@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270509
+SUMMARY:Minior Shower: Eta Aquariids
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: event\n\nKan fås:\n• Minior (Meteor Form) – wild\n\n
+ Bonusser:\n• Increased Stardust for catching Minior\n• Increased chanc
+ e of encountering Minior in the wild from 5:00 p.m. to 9:00 p.m. local tim
+ e each day\n\nThe shower runs from 5:00 p.m. local time on the start date 
+ through 11:59 p.m. local time on the end date. Shooting stars appear in th
+ e in-game sky from 5:00 p.m. to 9:00 p.m. each day. Pokémon GO announced 
+ these Minior showers as recurring annually.\n\nKilder:\nhttps://pokemongo.
+ com/news/minior-meteor-showers-2026
+CATEGORIES:event
+URL:https://pokemongo.com/news/minior-meteor-showers-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:minior-shower-southern-delta-aquariids-2027-07-28@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270803
+SUMMARY:Minior Shower: Southern Delta Aquariids
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: event\n\nKan fås:\n• Minior (Meteor Form) – wild\n\n
+ Bonusser:\n• Increased Stardust for catching Minior\n• Increased chanc
+ e of encountering Minior in the wild from 5:00 p.m. to 9:00 p.m. local tim
+ e each day\n\nThe shower runs from 5:00 p.m. local time on the start date 
+ through 11:59 p.m. local time on the end date. Shooting stars appear in th
+ e in-game sky from 5:00 p.m. to 9:00 p.m. each day. Pokémon GO announced 
+ these Minior showers as recurring annually.\n\nKilder:\nhttps://pokemongo.
+ com/news/minior-meteor-showers-2026
+CATEGORIES:event
+URL:https://pokemongo.com/news/minior-meteor-showers-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:minior-shower-perseids-2027-08-10@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270816
+SUMMARY:Minior Shower: Perseids
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: event\n\nKan fås:\n• Minior (Meteor Form) – wild\n\n
+ Bonusser:\n• Increased Stardust for catching Minior\n• Increased chanc
+ e of encountering Minior in the wild from 5:00 p.m. to 9:00 p.m. local tim
+ e each day\n\nThe shower runs from 5:00 p.m. local time on the start date 
+ through 11:59 p.m. local time on the end date. Shooting stars appear in th
+ e in-game sky from 5:00 p.m. to 9:00 p.m. each day. Pokémon GO announced 
+ these Minior showers as recurring annually.\n\nKilder:\nhttps://pokemongo.
+ com/news/minior-meteor-showers-2026
+CATEGORIES:event
+URL:https://pokemongo.com/news/minior-meteor-showers-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:boston-city-safari-know-before-you-go-2026-10-24@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:Pokémon GO City Safari: Boston (Rescheduled)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: city-safari\nKræver billet\n\nKan fås:\n• Eevee (Expl
+ orer Hat) ✨ – special-research\n• Flabébé (Orange Flower) – time
+ d-research\, wild\n• Hawlucha – timed-research\, wild\n• Mudbray –
+  timed-research\, wild\n• Komala – timed-research\, wild\n• Flamigo 
+ – wild\n• Unown (B) ✨ – wild\n• Unown (L) ✨ – wild\n• Unow
+ n (M) ✨ – wild\n• Unown (R) ✨ – wild\n\nBonusser:\n• Increased
+  chance of encountering Shiny Pokémon\n• lure-duration\n• Up to 5 Spe
+ cial Trades per event day\n• 50% less Stardust required for trades\n• 
+ Buddy Pokémon can find the City Safari–exclusive Tiny Compass souvenir\
+ n• Party Play duration extended to eight hours\n\nRescheduled from Septe
+ mber 26–27 after severe weather. The replacement event runs globally fro
+ m 10:00 a.m. to 6:00 p.m. local time on October 24 and 25\, exclusively fo
+ r current ticket holders\; no additional tickets will be sold. The origina
+ l wild encounters and event bonuses apply globally. The original Eevee-foc
+ used Special Research is replaced by Timed Research featuring Flabébé (O
+ range Flower)\, Hawlucha\, Mudbray\, and Komala\, plus branching weekend b
+ onuses. There is no Boston GO Stamp Rally. Qualifying ticket holders can l
+ og in from October 24\, 2026 through October 23\, 2028 to obtain supplemen
+ tary Special Research for Boston Location Background Eevee encounters\, wh
+ ich is an extended research-acquisition window for previously eligible tic
+ ket holders\, not merely a completion grace period. No additional tickets 
+ are being sold\; the calendar bar covers the October 24–25 rescheduled e
+ vent gameplay.\n\nKilder:\nhttps://pokemongo.com/news/city-safari-boston-r
+ escheduled\nhttps://pokemongo.com/en/news/boston-city-safari-know-before-y
+ ou-go
+CATEGORIES:city-safari
+URL:https://pokemongo.com/news/city-safari-boston-rescheduled
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-night-out-twitch-drops-2026-2026-10-24@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Pokémon Night Out Twitch Drops
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: promotion\n\nKan fås:\n• Pokémon Night Out Baseball J
+ ersey – timed-research\n\nGlobal Twitch Drops promotion for the Pokémon
+  Night Out Los Angeles livestream\, beginning October 24\, 2026 at 7:30 p.
+ m. PDT. Watch 30 minutes of the official Pokémon Twitch broadcast with a 
+ linked Pokémon Trainer Central account\, claim the Twitch Drop\, retrieve
+  the code from rewards.pokemon.com\, and redeem it in the Pokémon GO Web 
+ Store for Timed Research rewarding an exclusive Pokémon Night Out basebal
+ l jersey avatar item. The official post does not specify a separate code-r
+ edemption or research-completion deadline.\n\nKilder:\nhttps://pokemongoli
+ ve.com/news/pokemon-night-out-twitch-drops2026\nhttps://30.pokemon.com/en-
+ us/night-out
+CATEGORIES:promotion
+URL:https://pokemongolive.com/news/pokemon-night-out-twitch-drops2026
+END:VEVENT
+BEGIN:VEVENT
+UID:halloween-part-1-2026-2026-10-27@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261102
+SUMMARY:Halloween 2026 Part I
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: event\n\nKan fås:\n• Pikachu (Hat and Capelet) ✨ –
+  raid\n• Zubat (Top Hat) ✨ – wild\n• Sinistea (Bow) ✨ – raid\n
+ • Piplup (Halloween Mischief) ✨ – wild\n• Drifblim (Halloween Misc
+ hief) ✨ – wild\n\nRuns from October 27 at 10:00 a.m. to November 1 at 
+ 10:00 a.m. local time. New costumed Pikachu\, Zubat\, and Sinistea debut. 
+ Wild encounters also include returning Halloween-costumed Pokémon. Event-
+ themed Field Research and interactive 'Trick or Treat' surprises in the wi
+ ld are available during the event.\n\nKilder:\nhttps://pokemongo.com/news/
+ halloween-part-1-2026
+CATEGORIES:event
+URL:https://pokemongo.com/news/halloween-part-1-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:go-pass-halloween-2026-2026-10-27@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261106
+SUMMARY:GO Pass: Halloween 2026
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: go-pass\n\nKan fås:\n• Patissier Top – go-pass\n• 
+ Patissier Pants – go-pass\n\nBonusser:\n• 2× catch candy\n• 3× cat
+ ch candy\n• 2× catch stardust\n• 3× catch stardust\n\nGO Pass and GO
+  Pass Deluxe are available from October 27 at 10:00 a.m. to November 5 at 
+ 8:00 p.m. local time. Rewards unlocked in the pass can be claimed through 
+ November 7 at 8:00 p.m. local time\, but that later claim deadline is a gr
+ ace period and does not extend this calendar bar.\n\nKilder:\nhttps://poke
+ mongo.com/news/halloween-part-1-2026\nhttps://pokemongo.com/news/halloween
+ -part-2-2026
+CATEGORIES:go-pass
+URL:https://pokemongo.com/news/halloween-part-1-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:aeon-mall-halloween-2026-2026-10-19@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261102
+SUMMARY:AEON Mall Halloween 2026 (Japan)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / timed-research\n\nKan fås:\n• Pikachu 
+ (Witch Hat) – timed-research\n\nBonusser:\n• lure-duration\n• Lure M
+ odule effects are strengthened at participating AEON Malls\n\nSpecial Hall
+ oween event at participating AEON Malls across Japan. Timed Research is di
+ stributed in two acquisition windows: Part 1 from October 19–25 and Part
+  2 from October 26–November 1. Completing either research awards an enco
+ unter with Pikachu wearing a witch hat. Part 1 can be completed through No
+ vember 8 at 8:00 p.m. and Part 2 through November 15 at 8:00 p.m.\; those 
+ later deadlines are completion grace periods and do not extend this calend
+ ar bar. A separate AEON Mall campaign during the event can award Pokémon 
+ GO in-game items.\n\nKilder:\nhttps://pokemongo.com/ja/news/202610aeonmall
+ -halloween
+LOCATION:Participating AEON Malls across Japan
+CATEGORIES:collaboration
+URL:https://pokemongo.com/ja/news/202610aeonmall-halloween
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-seoul-2026-2026-10-24@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:FC Seoul 2026 Event (Korea)
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: collaboration / local-raid\n\nKan fås:\n• Charmander 
+ ✨ – raid\n• Charizard ✨ – timed-research\n\nBonusser:\n• lure-
+ duration\n• Increased Candy for catching Pokémon with Nice Throws or be
+ tter\n• Event-themed pollen appears on the in-game map\n\nRuns October 2
+ 4\, 2026 from 9:00 a.m. to 8:00 p.m. Korea time around Seoul World Cup Sta
+ dium. One-star raids feature Charmander that can have an event-themed Loca
+ tion Background\; these raids cannot be joined using Remote Raid Passes. F
+ ree onsite Timed Research awards XP\, Stardust\, Charmander Candy\, a Prem
+ ium Battle Pass\, and an encounter with Charizard that can have the event-
+ themed Location Background. The Timed Research can be completed through No
+ vember 7 at 8:00 p.m. Korea time\; that later deadline is a completion gra
+ ce period and does not extend this calendar bar. A Pokémon GO onsite boot
+ h operates from 9:00 a.m. to 2:00 p.m.\n\nKilder:\nhttps://pokemongo.com/k
+ o/news/fc-seoul-2026
+LOCATION:Seoul World Cup Stadium area\, Seoul
+CATEGORIES:collaboration
+URL:https://pokemongo.com/ko/news/fc-seoul-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:halloween-part-2-2026-2026-11-01@pgocalendar
+DTSTAMP:20261013T131000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261106
+SUMMARY:Halloween 2026 Part II
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: event\n\nKan fås:\n• Greavard ✨ – field-research\,
+  go-pass\, wild\n• Rowlet (Halloween Costume) ✨ – wild\n• Gengar (
+ Spooky Festival) ✨ – wild\n• Pikachu (Hat and Capelet) ✨ – raid\
+ n• Sinistea (Bow) ✨ – raid\n\nRuns from November 1 at 10:00 a.m. to 
+ November 5 at 8:00 p.m. local time. Shiny Greavard makes its Pokémon GO d
+ ebut. Starting with this event\, Mega Sableye can be powered beyond Max to
+  Super Max Level and can use the additional Charged Attack Night Shade+ wh
+ ile Mega Evolved. Event-themed Field Research is available. The shared GO 
+ Pass: Halloween 2026 continues through November 5 and is tracked separatel
+ y.\n\nKilder:\nhttps://pokemongo.com/news/halloween-part-2-2026
+CATEGORIES:event
+URL:https://pokemongo.com/news/halloween-part-2-2026
+END:VEVENT
+END:VCALENDAR
