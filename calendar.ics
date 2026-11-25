@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:suita-city-stamp-rally-2025-05-09@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20250509
 DTEND;VALUE=DATE:20250510
 SUMMARY:Stamp Rally Suita (Japan)
@@ -21,7 +21,7 @@ URL:https://pokemongo.com/news/suita_rally?hl=ja
 END:VEVENT
 BEGIN:VEVENT
 UID:poke-lid-stamp-rally-kyushu-okinawa-2025-11-07@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20251107
 DTEND;VALUE=DATE:20251108
 SUMMARY:Stamp Rally Poké Lid (Japan)
@@ -37,7 +37,7 @@ URL:https://pokemongo.com/news/pokelidsr_kyushu_okinawa
 END:VEVENT
 BEGIN:VEVENT
 UID:nagasaki-go-stamp-rally-2025-11-10@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20251110
 DTEND;VALUE=DATE:20251111
 SUMMARY:Stamp Rally Nagasaki (Japan)
@@ -52,7 +52,7 @@ URL:https://pokemongo.com/news/stamp-rally-nagasaki
 END:VEVENT
 BEGIN:VEVENT
 UID:ppk-launch-2026-02-05@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260205
 DTEND;VALUE=DATE:20260206
 SUMMARY:PokéPark KANTO (Japan)
@@ -70,7 +70,7 @@ URL:https://pokemongo.com/en/news/ppk_launch
 END:VEVENT
 BEGIN:VEVENT
 UID:pgo-pokemon-fossil-musuem-chicago-2026-2026-05-22@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20270412
 SUMMARY:Pokémon Fossil Museum Chicago (U.S.A.)
@@ -86,7 +86,7 @@ URL:https://pokemongo.com/en/news/pgo-pokemon-fossil-musuem-chicago-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-koto-stamp-rally-2026-2026-05-25@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
 SUMMARY:Stamp Rally Koto (Japan)
@@ -102,7 +102,7 @@ URL:https://prtimes.jp/main/html/rd/p/000000004.000177618.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-minato-stamp-rally-2026-2026-05-25@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
 SUMMARY:Stamp Rally Minato (Japan)
@@ -118,7 +118,7 @@ URL:https://prtimes.jp/main/html/rd/p/000000004.000177618.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-shinagawa-stamp-rally-2026-2026-05-25@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
 SUMMARY:Stamp Rally Shinagawa (Japan)
@@ -134,7 +134,7 @@ URL:https://prtimes.jp/main/html/rd/p/000000004.000177618.html
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-center-stamp-rally-2026-2026-07-01@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20270901
 SUMMARY:Stamp Rally Pokémon Center (Japan)
@@ -149,7 +149,7 @@ URL:https://pokemongo.com/news/assistant_pikachu
 END:VEVENT
 BEGIN:VEVENT
 UID:nationaltrust-2026-2026-07-18@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20270101
 SUMMARY:National Trust (U.K.)
@@ -168,7 +168,7 @@ URL:https://pokemongo.com/en/news/nationaltrust-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-ana-red-2026-07-28@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20270901
 SUMMARY:ANA Red Pokémon Jet (Japan)
@@ -189,7 +189,7 @@ URL:https://pokemongo.com/ja/news/2026_ana_red
 END:VEVENT
 BEGIN:VEVENT
 UID:pokexciting-kuala-lumpur-stamp-rally-2026-2026-09-12@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20261014
 SUMMARY:PokéXciting! Kuala Lumpur (Malaysia)
@@ -204,7 +204,7 @@ URL:https://pokemongo.com/news/event-kuala-lumpur-30th-anniversary-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokexciting-cross-region-go-stamp-rally-2026-2026-09-12@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20290912
 SUMMARY:Stamp Rally PokéXciting! Cross-Region (Asia-Pacific)
@@ -221,7 +221,7 @@ URL:https://pokemongo.com/en/news/event-apac-stamp-rally-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:partner-research-familymart-autumn-2026-2026-09-15@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20261006
 SUMMARY:Partner Research: FamilyMart (Japan)
@@ -240,7 +240,7 @@ URL:https://pokemongo.com/news/202609partnerresearch-jp
 END:VEVENT
 BEGIN:VEVENT
 UID:pikachu-autumn-picnic-korea-2026-2026-09-18@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20261012
 SUMMARY:Pikachu's Autumn Picnic (Korea)
@@ -257,7 +257,7 @@ URL:https://pokemongo.com/en/news/pikachu-autumn-picnic-korea-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-ana-green-2026-09-18@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20270901
 SUMMARY:ANA Green Pokémon Jet (Japan)
@@ -274,7 +274,7 @@ URL:https://pokemongo.com/en/news/2026_ana_green
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-twilight-trails-2026-2026-09-23@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260929
 SUMMARY:Choose Your Path: Twilight Trails
@@ -286,7 +286,7 @@ URL:https://pokemongo.com/ja/news/choose-your-path-twilight-trails-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-x-adidas-timed-research-2026-2026-09-25@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20270116
 SUMMARY:Adidas Avatar Items (Select Countries)
@@ -305,7 +305,7 @@ URL:https://pokemongo.com/en/news/pokemon-x-adidas-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemongo-iitdelhi-2026-2026-09-28@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20261002
 SUMMARY:IIT-Delhi Rendezvous 2026 (India)
@@ -321,7 +321,7 @@ URL:https://pokemongo.com/news/pokemongo-iitdelhi-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:patterns-of-the-wild-2026-1-2026-09-28@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20261011
 SUMMARY:Patterns of the Wild Timed Research (Indonesia)
@@ -336,7 +336,7 @@ URL:https://pokemongo.com/en/news/patterns-of-the-wild-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-2026-2026-09-29@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20261006
 SUMMARY:Harvest Festival: Applin Picking
@@ -353,7 +353,7 @@ URL:https://pokemongo.com/en/news/harvest-festival-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:weekly-branching-tr-korea-2026-3-2026-09-29@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20261006
 SUMMARY:Weekly Relay – Part III (Korea)
@@ -366,7 +366,7 @@ URL:https://pokemongo.com/en/news/weekly-branching-tr-korea-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:comic-con-malaga-2026-2026-10-01@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261005
 SUMMARY:Comic-Con Málaga (Spain)
@@ -382,7 +382,7 @@ URL:https://pokemongo.com/en/news/comic-con-malaga-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-30th-mall-exploration-ombak-klcc-2026-2026-10-01@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20270101
 SUMMARY:30th Anniversary Mall Exploration – Ombak KLCC (Malaysia)
@@ -400,7 +400,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-30th-mall-exploration-sm-mall-of-asia-2026-2026-10-01@pgocalend
  ar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20270201
 SUMMARY:30th Anniversary Mall Exploration – SM Mall of Asia (Philippines)
@@ -417,7 +417,7 @@ URL:https://pokemongo.com/en/news/apac-mall-exploration-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:patterns-of-the-wild-2026-2-2026-10-02@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Patterns of the Wild (Indonesia)
@@ -434,7 +434,7 @@ URL:https://pokemongo.com/en/news/patterns-of-the-wild-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-tgr-2026-2026-10-02@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261006
 SUMMARY:Harvest Festival: Taken Over
@@ -452,7 +452,7 @@ URL:https://pokemongo.com/en/news/harvest-festival-tgr-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:gigantamax-cinderace-max-battle-day-2026-2026-10-03@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Gigantamax Cinderace Max Battle Day
@@ -471,7 +471,7 @@ URL:https://pokemongo.com/en/news/gigantamax-cinderace-max-battle-day-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-run-30-2026-1-2026-10-03@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 SUMMARY:Pokémon RUN 30 (Philippines)
@@ -491,7 +491,7 @@ URL:https://pokemongo.com/news/pokemon-run-30-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:european-space-agency-event-1-2026-10-04@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261011
 SUMMARY:European Space Agency (Europe)
@@ -509,7 +509,7 @@ URL:https://pokemongo.com/en/news/european-space-agency-event
 END:VEVENT
 BEGIN:VEVENT
 UID:world-space-week-2026-2026-10-04@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261011
 SUMMARY:World Space Week 2026
@@ -524,7 +524,7 @@ URL:https://pokemongo.com/news/world-space-week-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:european-space-agency-event-2-2026-10-04@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20270501
 SUMMARY:European Space Agency (Europe)
@@ -541,7 +541,7 @@ URL:https://pokemongo.com/en/news/european-space-agency-event
 END:VEVENT
 BEGIN:VEVENT
 UID:hangul-nal-2026-2026-10-06@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261010
 SUMMARY:Hangul Day Event (Korea)
@@ -560,7 +560,7 @@ URL:https://pokemongo.com/ko/news/hangul-nal-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:weekly-branching-tr-korea-2026-4-2026-10-06@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261013
 SUMMARY:Weekly Relay – Part IV (Korea)
@@ -573,7 +573,7 @@ URL:https://pokemongo.com/en/news/weekly-branching-tr-korea-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:communityday-october-2026-zorua-2026-10-10@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Community Day: Zorua
@@ -604,7 +604,7 @@ URL:https://pokemongo.com/en/news/communityday-october-2026-zorua
 END:VEVENT
 BEGIN:VEVENT
 UID:event-taipei-30th-anniversary-2026-1-2026-10-10@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261012
 SUMMARY:PokéXciting! Taipei
@@ -623,7 +623,7 @@ URL:https://pokemongo.com/en/news/event-taipei-30th-anniversary-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:event-taipei-30th-anniversary-2026-2-2026-10-10@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261112
 SUMMARY:Stamp Rally PokéXciting! Taipei
@@ -637,7 +637,7 @@ URL:https://pokemongo.com/en/news/event-taipei-30th-anniversary-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:fall-marathon-buddy-trek-2026-2026-10-13@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261020
 SUMMARY:Fall Marathon: Buddy Trek
@@ -660,7 +660,7 @@ URL:https://pokemongo.com/en/news/fall-marathon-buddy-trek-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-2026-10-17-2026-10-17@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Sandile Hatch Day
@@ -682,7 +682,7 @@ URL:https://pokemongo.com/en/news/sandile-hatch-day-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-run-30-2026-taiwan-taichung-2026-10-17@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
 SUMMARY:Pokémon RUN 30 – Taichung (Taiwan)
@@ -705,7 +705,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-30th-mall-exploration-sm-east-ortigas-2026-2026-10-23@pgocalend
  ar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261109
 SUMMARY:30th Anniversary Mall Exploration – SM East Ortigas
@@ -724,7 +724,7 @@ URL:https://pokemongo.com/en/news/apac-mall-exploration-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-2026-10-24-2026-10-24@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Dynamax Uxie\, Mesprit\, and Azelf Max Battle Day
@@ -749,7 +749,7 @@ URL:https://pokemongo.com/news/dynamax-uxie-mesprit-azelf-max-battle-day-20
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-2026-10-31-2026-10-31@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Chandelure Super Mega Raid Day
@@ -782,7 +782,7 @@ URL:https://pokemongo.com/news/save-the-date-s24
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-chandelure-global-challenge-rewards-2026-2026-11-02@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261116
 SUMMARY:Mega Chandelure Global Challenge Rewards
@@ -803,7 +803,7 @@ URL:https://pokemongo.com/news/chandelure-super-mega-raid-day-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-run-30-2026-taiwan-kaohsiung-2026-10-31@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261102
 SUMMARY:Pokémon RUN 30 – Kaohsiung (Taiwan)
@@ -825,7 +825,7 @@ URL:https://pokemongo.com/news/pokemon-run-30-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:go-wild-area-mexico-city-2026-2026-11-06@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261109
 SUMMARY:Pokémon GO Wild Area: Mexico City
@@ -889,7 +889,7 @@ URL:https://pokemongo.com/en/gowildarea/mexico-city
 END:VEVENT
 BEGIN:VEVENT
 UID:go-wild-area-sendai-tohoku-2026-2026-11-06@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261109
 SUMMARY:Pokémon GO Wild Area: Sendai • Tohoku
@@ -952,7 +952,7 @@ URL:https://pokemongo.com/en/gowildarea/sendai
 END:VEVENT
 BEGIN:VEVENT
 UID:event-apac-30th-anniversary-2026-2026-11-07@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
 SUMMARY:PokéXciting! Singapore
@@ -984,7 +984,7 @@ URL:https://pokemongo.com/news/event-singapore-30th-anniversary-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-run-30-2026-2-2026-11-07@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
 SUMMARY:Pokémon RUN 30 × Pokémon GO – Singapore
@@ -1006,7 +1006,7 @@ URL:https://pokemongo.com/news/pokemon-run-30-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokexciting-singapore-pikachu-wild-2026-2026-11-07@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261209
 SUMMARY:PokéXciting! Singapore – Pikachu Wild Encounters
@@ -1025,7 +1025,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-30th-mall-exploration-jewel-changi-airport-2026-2026-11-07@pgoc
  alendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20270201
 SUMMARY:Pokémon 30th Anniversary Mall Exploration – Jewel Changi Airport
@@ -1043,7 +1043,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-30th-mall-exploration-changi-airport-2026-2026-11-07@pgocalenda
  r
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20270301
 SUMMARY:Pokémon 30th Anniversary Mall Exploration – Changi Airport
@@ -1060,7 +1060,7 @@ URL:https://pokemongo.com/zh-Hant/news/apac-mall-exploration-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-run-30-2026-taiwan-new-taipei-2026-11-14@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 SUMMARY:Pokémon RUN 30 × Pokémon GO – New Taipei
@@ -1082,7 +1082,7 @@ URL:https://pokemongo.com/news/pokemon-run-30-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:save-the-date-go-wild-area-2026-2-2026-11-14@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 SUMMARY:Pokémon GO Wild Area 2026 – Global
@@ -1132,7 +1132,7 @@ URL:https://pokemongo.com/en/news/save-the-date-go-wild-area-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-30th-mall-exploration-sm-southmall-2026-2026-11-20@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261201
 SUMMARY:Pokémon 30th Anniversary Mall Exploration – SM Southmall
@@ -1149,7 +1149,7 @@ URL:https://pokemongo.com/zh-Hant/news/apac-mall-exploration-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-run-30-2026-3-2026-11-21@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261123
 SUMMARY:Pokémon RUN 30 × Pokémon GO – Malaysia
@@ -1170,7 +1170,7 @@ URL:https://pokemongo.com/news/pokemon-run-30-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-2026-11-28-2026-11-28@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Clefable Super Mega Raid Day
@@ -1199,7 +1199,7 @@ URL:https://pokemongo.com/news/save-the-date-s24
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-clefable-global-challenge-rewards-2026-2026-11-30@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261214
 SUMMARY:Mega Clefable Global Challenge Rewards
@@ -1217,7 +1217,7 @@ URL:https://pokemongo.com/news/clefable-super-mega-raid-day-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-30th-mall-exploration-sm-north-edsa-2026-2026-12-10@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20270104
 SUMMARY:Pokémon 30th Anniversary Mall Exploration – SM North EDSA
@@ -1234,7 +1234,7 @@ URL:https://pokemongo.com/zh-Hant/news/apac-mall-exploration-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-run-30-2026-4-2026-12-12@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
 SUMMARY:Pokémon RUN 30 × Pokémon GO – Indonesia
@@ -1255,7 +1255,7 @@ URL:https://pokemongo.com/news/pokemon-run-30-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-run-30-2027-thailand-2027-01-09@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270111
 SUMMARY:Pokémon RUN 30 × Pokémon GO – Thailand
@@ -1276,7 +1276,7 @@ URL:https://pokemongo.com/news/pokemon-run-30-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-30th-mall-exploration-sm-marikina-2027-2027-01-15@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270201
 SUMMARY:Pokémon 30th Anniversary Mall Exploration – SM Marikina
@@ -1293,7 +1293,7 @@ URL:https://pokemongo.com/zh-Hant/news/apac-mall-exploration-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-run-30-2027-hong-kong-2027-01-23@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270125
 SUMMARY:Pokémon RUN 30 × Pokémon GO – Hong Kong
@@ -1314,7 +1314,7 @@ URL:https://pokemongo.com/news/pokemon-run-30-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokexciting-manila-2027-2027-01-23@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270125
 SUMMARY:PokéXciting! Manila
@@ -1333,7 +1333,7 @@ URL:https://pokemongo.com/news/event-apac-30th-anniversary-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokexciting-manila-pikachu-wild-2027-2027-01-23@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270225
 SUMMARY:PokéXciting! Manila – Pikachu Wild Encounters
@@ -1350,7 +1350,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-30th-mall-exploration-sm-seaside-cebu-2027-2027-02-05@pgocalend
  ar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270215
 SUMMARY:Pokémon 30th Anniversary Mall Exploration – SM Seaside Cebu
@@ -1367,7 +1367,7 @@ URL:https://pokemongo.com/zh-Hant/news/apac-mall-exploration-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokexciting-bangkok-2027-2027-02-13@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270215
 SUMMARY:PokéXciting! Bangkok
@@ -1385,7 +1385,7 @@ URL:https://pokemongo.com/news/event-apac-30th-anniversary-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokexciting-bangkok-pikachu-wild-2027-2027-02-13@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270315
 SUMMARY:PokéXciting! Bangkok – Pikachu Wild Encounters
@@ -1401,7 +1401,7 @@ URL:https://pokemongo.com/en/news/event-apac-30th-anniversary-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:go-tour-alola-kaohsiung-2027-2027-02-19@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270222
 SUMMARY:Pokémon GO Tour: Alola – Kaohsiung
@@ -1415,7 +1415,7 @@ URL:https://pokemongo.com/en/news/save-the-date-go-tour-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:go-tour-alola-los-angeles-2027-2027-02-19@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270222
 SUMMARY:Pokémon GO Tour: Alola – Los Angeles
@@ -1429,7 +1429,7 @@ URL:https://pokemongo.com/en/news/save-the-date-go-tour-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-30th-mall-exploration-sm-davao-2027-2027-02-20@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270308
 SUMMARY:Pokémon 30th Anniversary Mall Exploration – SM Davao
@@ -1446,7 +1446,7 @@ URL:https://pokemongo.com/zh-Hant/news/apac-mall-exploration-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:go-tour-alola-global-2027-2027-02-27@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270301
 SUMMARY:Pokémon GO Tour: Alola – Global
@@ -1460,7 +1460,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-30th-mall-exploration-sm-cdo-downtown-2027-2027-03-13@pgocalend
  ar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270329
 SUMMARY:Pokémon 30th Anniversary Mall Exploration – SM CDO Downtown
@@ -1477,7 +1477,7 @@ URL:https://pokemongo.com/zh-Hant/news/apac-mall-exploration-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:festival-of-lights-2026-2026-11-06@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261109
 SUMMARY:Festival of Lights
@@ -1497,7 +1497,7 @@ URL:https://pokemongo.com/en/news/festival-of-lights-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tcg-30th-celebration-event-2026-09-27@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20261021
 SUMMARY:TCG 30th Celebration (U.S.A.)
@@ -1511,7 +1511,7 @@ URL:https://pokemongo.com/news/tcg-30th-celebration-event
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-x-adidas-code-2026-2026-09-29@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20270116
 SUMMARY:adidas Avatar Shoes Offer Code
@@ -1525,7 +1525,7 @@ URL:https://pokemongo.com/en/news/pokemon-x-adidas-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-shower-orionids-2026-10-19@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261025
 SUMMARY:Minior Shower: Orionids
@@ -1543,7 +1543,7 @@ URL:https://pokemongo.com/news/minior-meteor-showers-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-shower-leonids-2026-11-14@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261120
 SUMMARY:Minior Shower: Leonids
@@ -1560,7 +1560,7 @@ URL:https://pokemongo.com/news/minior-meteor-showers-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-shower-geminids-2026-12-11@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261217
 SUMMARY:Minior Shower: Geminids
@@ -1577,7 +1577,7 @@ URL:https://pokemongo.com/news/minior-meteor-showers-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-shower-eta-aquariids-2027-05-03@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270509
 SUMMARY:Minior Shower: Eta Aquariids
@@ -1594,7 +1594,7 @@ URL:https://pokemongo.com/news/minior-meteor-showers-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-shower-southern-delta-aquariids-2027-07-28@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270728
 DTEND;VALUE=DATE:20270803
 SUMMARY:Minior Shower: Southern Delta Aquariids
@@ -1611,7 +1611,7 @@ URL:https://pokemongo.com/news/minior-meteor-showers-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-shower-perseids-2027-08-10@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270816
 SUMMARY:Minior Shower: Perseids
@@ -1628,7 +1628,7 @@ URL:https://pokemongo.com/news/minior-meteor-showers-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:boston-city-safari-know-before-you-go-2026-10-24@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
 SUMMARY:Pokémon GO City Safari: Boston (Rescheduled)
@@ -1663,7 +1663,7 @@ URL:https://pokemongo.com/news/city-safari-boston-rescheduled
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-night-out-twitch-drops-2026-2026-10-24@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Pokémon Night Out Twitch Drops
@@ -1684,7 +1684,7 @@ URL:https://pokemongolive.com/news/pokemon-night-out-twitch-drops2026
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-part-1-2026-2026-10-27@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261102
 SUMMARY:Halloween 2026 Part I
@@ -1703,7 +1703,7 @@ URL:https://pokemongo.com/news/halloween-part-1-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-halloween-2026-2026-10-27@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261106
 SUMMARY:GO Pass: Halloween 2026
@@ -1722,7 +1722,7 @@ URL:https://pokemongo.com/news/halloween-part-1-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:aeon-mall-halloween-2026-2026-10-19@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261102
 SUMMARY:AEON Mall Halloween 2026 (Japan)
@@ -1745,7 +1745,7 @@ URL:https://pokemongo.com/ja/news/202610aeonmall-halloween
 END:VEVENT
 BEGIN:VEVENT
 UID:fc-seoul-2026-2026-10-24@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:FC Seoul 2026 Event (Korea)
@@ -1770,7 +1770,7 @@ URL:https://pokemongo.com/ko/news/fc-seoul-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-part-2-2026-2026-11-01@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261106
 SUMMARY:Halloween 2026 Part II
@@ -1790,7 +1790,7 @@ URL:https://pokemongo.com/news/halloween-part-2-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-night-out-los-angeles-2026-2026-10-24@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Pokémon Night Out – Los Angeles
@@ -1815,7 +1815,7 @@ URL:https://pokemongo.com/news/pokemon-night-out-irl-details2026
 END:VEVENT
 BEGIN:VEVENT
 UID:dia-de-muertos-mexico-2026-2026-10-27@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261106
 SUMMARY:Día de Muertos 2026 (Mexico)
@@ -1838,7 +1838,7 @@ URL:https://pokemongo.com/es_MX/news/dia-de-muertos-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:dia-de-muertos-paseo-de-la-reforma-2026-2026-10-31@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261106
 SUMMARY:Día de Muertos – Paseo de la Reforma Stamp Rally
@@ -1865,7 +1865,7 @@ URL:https://pokemongo.com/es_MX/news/dia-de-muertos-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-wild-2026-2026-11-09@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261114
 SUMMARY:Into the Wild 2026
@@ -1897,7 +1897,7 @@ URL:https://pokemongo.com/news/into-the-wild-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-into-the-wild-2026-2026-11-09@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261116
 SUMMARY:GO Pass: Into the Wild 2026
@@ -1923,7 +1923,7 @@ URL:https://pokemongo.com/news/into-the-wild-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-wild-shiny-boxes-2026-2026-11-09@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261116
 SUMMARY:Into the Wild – Shiny Meltan and Gimmighoul
@@ -1942,7 +1942,7 @@ URL:https://pokemongo.com/news/into-the-wild-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-night-out-london-2026-2026-11-10@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Pokémon Night Out – London
@@ -1966,7 +1966,7 @@ URL:https://pokemongo.com/news/pokemon-night-out-irl-details2026
 END:VEVENT
 BEGIN:VEVENT
 UID:communityday-november-2026-pawniard-2026-11-21@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:November 2026 Community Day: Pawniard
@@ -1994,7 +1994,7 @@ URL:https://pokemongo.com/news/communityday-november-2026-pawniard
 END:VEVENT
 BEGIN:VEVENT
 UID:mexicraneo-dia-de-muertos-2026-2026-10-17@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261117
 SUMMARY:Mexicráneo – Discover Your Día de Muertos Spirit
@@ -2012,7 +2012,7 @@ URL:https://pokemongo.com/es_MX/news/dia-de-muertos-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:dynamax-trails-2026-2026-11-16@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261124
 SUMMARY:Dynamax Trails
@@ -2035,7 +2035,7 @@ URL:https://pokemongo.com/news/dynamax-trails-eternamax-eternatus-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-dynamax-trails-2026-2026-11-14@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261124
 SUMMARY:GO Pass: Dynamax Trails
@@ -2056,7 +2056,7 @@ URL:https://pokemongo.com/news/dynamax-trails-eternamax-eternatus-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:eternamax-eternatus-max-battles-2026-2026-11-21@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Eternamax Eternatus Max Battles
@@ -2076,7 +2076,7 @@ URL:https://pokemongo.com/news/dynamax-trails-eternamax-eternatus-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-center-bangkok-opening-2026-2026-12-01@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261211
 SUMMARY:Pokémon Center BANGKOK Grand Opening (Thailand)
@@ -2094,7 +2094,7 @@ URL:https://pokemongo.com/news/pokemon-center-bangkok-opens-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:sendai-tohoku-lapras-stamp-rally-2026-2026-11-03@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Sendai • Tohoku – Lapras GO Stamp Rally
@@ -2114,7 +2114,7 @@ URL:https://pokemongo.com/news/forever-stamp-rally-go-wild-area-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:mexico-city-hawlucha-stamp-rally-2026-2026-11-02@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Mexico City – Hawlucha GO Stamp Rally
@@ -2134,7 +2134,7 @@ URL:https://pokemongo.com/news/forever-stamp-rally-go-wild-area-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:twilight-wishes-2026-2026-11-24@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261201
 SUMMARY:Twilight Wishes
@@ -2159,7 +2159,7 @@ URL:https://pokemongo.com/news/twilight-wishes-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-twilight-wishes-2026-2026-11-24@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261201
 SUMMARY:GO Pass: Twilight Wishes
@@ -2181,7 +2181,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:go-wild-area-gigantamax-machamp-timed-research-2026-2026-11-06@pgocalen
  dar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261109
 SUMMARY:GO Wild Area: Gigantamax Machamp Power Up Timed Research
@@ -2201,7 +2201,7 @@ URL:https://pokemongo.com/news/gowildarea-2026-timed-research
 END:VEVENT
 BEGIN:VEVENT
 UID:mcdonalds-hong-kong-collaboration-2026-2026-11-12@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261221
 SUMMARY:Pokémon GO × McDonald's Hong Kong 2026
@@ -2224,7 +2224,7 @@ URL:https://pokemongo.com/zh_Hant/news/202611mcdhk
 END:VEVENT
 BEGIN:VEVENT
 UID:community-day-december-2026-2026-12-12@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
 SUMMARY:December 2026 Community Day
@@ -2276,7 +2276,7 @@ URL:https://pokemongo.com/news/save-the-date-s25
 END:VEVENT
 BEGIN:VEVENT
 UID:community-day-classic-2027-01-02-2027-01-02@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:January 2027 Community Day Classic
@@ -2289,7 +2289,7 @@ URL:https://pokemongo.com/news/save-the-date-s25
 END:VEVENT
 BEGIN:VEVENT
 UID:community-day-2027-01-16-2027-01-16@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:January 2027 Community Day
@@ -2302,7 +2302,7 @@ URL:https://pokemongo.com/news/save-the-date-s25
 END:VEVENT
 BEGIN:VEVENT
 UID:community-day-2027-02-06-2027-02-06@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:February 2027 Community Day
@@ -2315,7 +2315,7 @@ URL:https://pokemongo.com/news/save-the-date-s25
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-2026-12-05-2026-12-05@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:December 2026 Max Battle Day
@@ -2328,7 +2328,7 @@ URL:https://pokemongo.com/news/save-the-date-s25
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-2026-12-19-2026-12-19@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:December 2026 Raid Day
@@ -2340,7 +2340,7 @@ URL:https://pokemongo.com/news/save-the-date-s25
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-2026-12-26-2026-12-26@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:December 2026 Hatch Day
@@ -2353,7 +2353,7 @@ URL:https://pokemongo.com/news/save-the-date-s25
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-2027-01-09-2027-01-09@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:January 2027 Super Mega Raid Day
@@ -2365,7 +2365,7 @@ URL:https://pokemongo.com/news/save-the-date-s25
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-2027-01-23-2027-01-23@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:January 2027 Max Battle Day
@@ -2378,7 +2378,7 @@ URL:https://pokemongo.com/news/save-the-date-s25
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-2027-01-30-2027-01-30@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:January 2027 Super Mega Raid Day (January 30)
@@ -2390,7 +2390,7 @@ URL:https://pokemongo.com/news/save-the-date-s25
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-2027-02-13-2027-02-13@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:February 2027 Raid Day
@@ -2402,7 +2402,7 @@ URL:https://pokemongo.com/news/save-the-date-s25
 END:VEVENT
 BEGIN:VEVENT
 UID:apple-store-japan-applin-2026-2026-11-16@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261201
 SUMMARY:Pokémon GO × Apple Store Japan – Applin Encounters
@@ -2422,7 +2422,7 @@ URL:https://pokemongo.com/ja/news/apple_store_japan
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-crocs-avatar-items-2026-2026-11-16@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20280101
 SUMMARY:Pokémon GO × Crocs Avatar Items
@@ -2440,7 +2440,7 @@ URL:https://pokemongo.com/news/pokemon-crocs-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:laic-2027-twitch-viewing-rewards-2026-2026-11-20@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261123
 SUMMARY:2027 Latin America International Championships – Twitch Viewing R
@@ -2461,7 +2461,7 @@ URL:https://pokemongo.com/news/latin-america-international-championships-20
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-duolingo-language-research-2026-2026-11-17@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261222
 SUMMARY:Pokémon GO × Duolingo – Catch a New Language
@@ -2483,7 +2483,7 @@ URL:https://pokemongo.com/news/duolingo-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-ana-blue-2026-12-11@pgocalendar
-DTSTAMP:20261120T200800Z
+DTSTAMP:20261125T213810Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20270901
 SUMMARY:ANA Blue Pokémon Jet (Japan)
@@ -2501,5 +2501,46 @@ LOCATION:Chubu Centrair International Airport\, Noto Airport\, Hiroshima Ai
  obe Airport
 CATEGORIES:collaboration
 URL:https://pokemongo.com/news/2026_ana_blue
+END:VEVENT
+BEGIN:VEVENT
+UID:tropical-paradise-2026-2026-12-01@pgocalendar
+DTSTAMP:20261125T213810Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261208
+SUMMARY:Tropical Paradise
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: event\n\nKan fås:\n• Pyukumuku ✨ – raid\n\nDecembe
+ r 1 at 10:00 a.m.–December 7 at 8:00 p.m. local time. Pyukumuku debuts i
+ n three-star raids and can learn the Fast Attack Soak (6 power in Trainer 
+ Battles and raids). Mega Slowbro gains Super Max Level and Chilling Water+
+  (45 power and guaranteed opponent Attack reduction in Trainer Battles\; 1
+ 60 power in raids\, increasing with Mega Level). Wild encounters include S
+ lowpoke\, Shellder\, Wingull\, Slakoth\, and rare Snorlax. From December 4
+  at 10:00 a.m.\, Hoppip\, Lotad\, Shroomish\, and rare Alolan Exeggutor al
+ so appear. One-star raids feature Alolan Diglett\, both Frillish forms\, a
+ nd Sandygast. Field Research includes Psyduck\, Tentacool\, Shellder\, and
+  Slowbro Mega Energy.\n\nKilder:\nhttps://pokemongo.com/news/tropical-para
+ dise-2026
+CATEGORIES:event
+URL:https://pokemongo.com/news/tropical-paradise-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:go-pass-tropical-paradise-2026-2026-12-01@pgocalendar
+DTSTAMP:20261125T213810Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261208
+SUMMARY:GO Pass: Tropical Paradise
+TRANSP:TRANSPARENT
+DESCRIPTION:Type: go-pass\n\nKan fås:\n• Pyukumuku ✨ – go-pass\n\nBo
+ nusser:\n• 2× raid xp\n• 5× Mega Energy from exploring with Slowpoke
+ \, Slowbro\, or Slowking as your buddy\n\nDecember 1 at 10:00 a.m.–Decem
+ ber 7 at 8:00 p.m. local time. Rewards include Pyukumuku\, event Pokémon 
+ encounters\, a Lucky Egg\, Rare Candy\, and Slowbro Mega Energy. Deluxe co
+ sts US$4.99\, or US$6.99 with six additional ranks\, and offers extra enco
+ unters\, Incense\, Mega Energy\, and Premium Battle Passes. Claim unlocked
+  rewards by December 9 at 8:00 p.m. local time.\n\nKilder:\nhttps://pokemo
+ ngo.com/news/tropical-paradise-2026
+CATEGORIES:go-pass
+URL:https://pokemongo.com/news/tropical-paradise-2026
 END:VEVENT
 END:VCALENDAR
